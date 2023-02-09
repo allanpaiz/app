@@ -1,0 +1,911 @@
+{
+  "search_metadata": {
+    "id": "63e47244d3aba21f434ca98b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/ddf7cac84a8cdd0e/63e47244d3aba21f434ca98b.json",
+    "created_at": "2023-02-09 04:10:44 UTC",
+    "processed_at": "2023-02-09 04:10:44 UTC",
+    "google_url": "https://www.google.com/search?q=liverpool&oq=liverpool&uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&gl=us&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/ddf7cac84a8cdd0e/63e47244d3aba21f434ca98b.html",
+    "total_time_taken": 2.11
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "liverpool",
+    "location_requested": "Austin, Texas, United States",
+    "location_used": "Austin,Texas,United States",
+    "google_domain": "google.com",
+    "hl": "en",
+    "gl": "us",
+    "device": "desktop"
+  },
+  "search_information": {
+    "organic_results_state": "Results for exact spelling",
+    "query_displayed": "liverpool",
+    "total_results": 946000000,
+    "time_taken_displayed": 0.6,
+    "menu_items": [
+      {
+        "position": 1,
+        "title": "All"
+      },
+      {
+        "position": 2,
+        "title": "News",
+        "link": "https://www.google.com/search?q=liverpool&gl=us&source=lnms&tbm=nws&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ_AUoAXoECAEQAw",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool&tbm=nws"
+      },
+      {
+        "position": 3,
+        "title": "Images",
+        "link": "https://www.google.com/search?q=liverpool&gl=us&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ_AUoAnoECAEQBA",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool&tbm=isch"
+      },
+      {
+        "position": 4,
+        "title": "Videos",
+        "link": "https://www.google.com/search?q=liverpool&gl=us&source=lnms&tbm=vid&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ_AUoA3oECAEQBQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool&tbm=vid"
+      },
+      {
+        "position": 5,
+        "title": "Maps",
+        "link": "https://maps.google.com/maps?uule=w+CAIQICIaQXVzdGluLFRleGFzLFVuaXRlZCBTdGF0ZXM&q=liverpool&gl=us&um=1&ie=UTF-8&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ_AUoBHoECAEQBg"
+      }
+    ]
+  },
+  "sports_results": {
+    "title": "Liverpool F.C.",
+    "rankings": "10th in Premier League",
+    "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb06a15aebc14526d04af01339d07a0a8bad1777ed56a508a12.png",
+    "games": [
+      {
+        "tournament": "FA Cup",
+        "stage": "3rd Round Replays",
+        "status": "FT",
+        "date": "Jan 17",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=RvSY3XWn3vk&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1bec76ce7a490f0bc6b761162f269277936dcd04c01a278eb4741b39484d99a24fbc65d7bc053796fc8.jpeg",
+          "duration": "6:14"
+        },
+        "teams": [
+          {
+            "name": "Wolves",
+            "score": "0",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1bee20fba75daf2e2d5d61e6fd2f469603bcd2d77336eb6934d421be932818377a7.png"
+          },
+          {
+            "name": "Liverpool",
+            "score": "1",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1bee20fba75daf2e2d553da2e6cebe221e18524763cb9126f2ef9cb12dab02ad052.png"
+          }
+        ]
+      },
+      {
+        "status": "FT",
+        "date": "Jan 21",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=OYk5g88PreQ&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1bef2c79c50c3f6d7a774903aa902517abd171da94de2ed9df9a4393e559fa62ed2cf202fc7cd86f16b.jpeg",
+          "duration": "12:03"
+        },
+        "teams": [
+          {
+            "name": "Liverpool",
+            "score": "0",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be8e18d7d888c39ff0004187fb5746b9cb78104f5f2a5cd99e2685eeccd02027d1.png"
+          },
+          {
+            "name": "Chelsea",
+            "score": "0",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be8e18d7d888c39ff02b6c770455b0d7fb6cc7406741e61799daa55b345118f70d.png"
+          }
+        ]
+      },
+      {
+        "tournament": "FA Cup",
+        "stage": "4th Round",
+        "status": "FT",
+        "date": "Sun, Jan 29",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=DrSF2hO3pFk&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be875b0c187d075b850a277548ff4c21e20438d2f5c423cab7920112a377d17e3349227de43ceb853c.jpeg",
+          "duration": "8:42"
+        },
+        "teams": [
+          {
+            "name": "Brighton",
+            "score": "2",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be0119630e948a8462feea1e324c5ab682ffdc93b975b70741c02a52ceec2a58ac.png"
+          },
+          {
+            "name": "Liverpool",
+            "score": "1",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be0119630e948a8462c2f454f258cbe6960aa475434a16cf7496c3fcf0e94cd23b.png"
+          }
+        ]
+      },
+      {
+        "status": "FT",
+        "date": "Sat, Feb 4",
+        "video_highlights": {
+          "link": "https://www.youtube.com/watch?v=cVfWzjmUOo8&feature=onebox",
+          "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be83eaf02059a1cc91982081c1f6f0f9c530989460ed37820ab1a165bf0e6cafc2241bb84e05d774f0.jpeg",
+          "duration": "14:31"
+        },
+        "teams": [
+          {
+            "name": "Wolves",
+            "score": "3",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be1903dfa79d785e3b38a165d41df2f00d87f8d78f62b9d2de6a7b1b53b405e4d4.png"
+          },
+          {
+            "name": "Liverpool",
+            "score": "0",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be1903dfa79d785e3b22f48b794a6a925940db72a653d7634e49209bf979a14a90.png"
+          }
+        ]
+      },
+      {
+        "date": "Mon, Feb 13",
+        "time": "2:00 PM",
+        "teams": [
+          {
+            "name": "Liverpool",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be44449da08c80c0d3b871cc21a2108a95ff6fb296befa892fca3d3557139e0791.png"
+          },
+          {
+            "name": "Everton",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be44449da08c80c0d35d575a7c142d39aec42e5e9e29c1ff99fd674d932b2e0f99.png"
+          }
+        ]
+      },
+      {
+        "date": "Sat, Feb 18",
+        "time": "11:30 AM",
+        "teams": [
+          {
+            "name": "Newcastle",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be85a836e47295bafd22e6e2e7c830112026b02fd0319f3a257af5336b83ab711f.png"
+          },
+          {
+            "name": "Liverpool",
+            "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/7b54992f86164eb093ccdc11246ce1be85a836e47295bafda1d7861c07ef14a2dce75045b929e33c053e42202aa96ef2.png"
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge_graph": {
+    "title": "Liverpool F.C.",
+    "type": "Soccer club",
+    "kgmid": "/m/04ltf",
+    "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/04ltf&hl=en-US&q=Liverpool+F.C.&kgs=1be5c2e19008f845&shndl=0&source=sh/x/kp/1",
+    "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F04ltf&location=Austin%2C+Texas%2C+United+States&q=Liverpool+F.C.",
+    "image": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/18a7177d7efe45806ff2d714193738bbd4c5f008e67aa590.jpeg",
+    "website": "http://www.liverpoolfc.com/",
+    "description": "Liverpool Football Club is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Founded in 1892, the club joined the Football League the following year and has played its home games at Anfield since its formation.",
+    "source": {
+      "name": "Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Liverpool_F.C."
+    },
+    "location": "Liverpool, United Kingdom",
+    "location_links": [
+      {
+        "text": "Location",
+        "link": "https://www.google.com/search?gl=us&q=liverpool+f.c.+location&stick=H4sIAAAAAAAAAOPgE-LQz9U3MMkpSdOSz0620i8uyC8qKYZS8SWpiblWOfnJiSWZ-XmLWMVzMstSiwry83MU0vSS9RRgMgBJ-h4-RwAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ6BMoAHoECHcQAg"
+      },
+      {
+        "text": "Liverpool, United Kingdom",
+        "link": "https://www.google.com/search?gl=us&q=Liverpool&stick=H4sIAAAAAAAAAOPgE-LQz9U3MMkpSVOCsjLMtOSzk630iwvyi0qKoVR8SWpirlVOfnJiSWZ-3iJWTp_MstSigvz8nB2sjLvYmTgYAKg9lw1LAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQmxMoAXoECHcQAw"
+      }
+    ],
+    "manager": "Jürgen Klopp",
+    "manager_links": [
+      {
+        "text": "Manager",
+        "link": "https://www.google.com/search?gl=us&q=liverpool+f.c.+manager&stick=H4sIAAAAAAAAAOPgE-LQz9U3MMkpSdNSyE620i_OT05OLdJPy88vSUrMyYkvSU3MtcpNzEtMTy1axCqWk1mWWlSQn5-jkKaXrKcAlQAAPFkKW0cAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ6BMoAHoECHQQAg"
+      },
+      {
+        "text": "Jürgen Klopp",
+        "link": "https://www.google.com/search?gl=us&q=J%C3%BCrgen+Klopp&stick=H4sIAAAAAAAAAOPgE-LQz9U3MMkpSVPiArPMjOMLTLUUspOt9Ivzk5NTi_TT8vNLkhJzcuJLUhNzrXIT8xLTU4sWsfJ6Hd5TlJ6ap-Cdk19QsIOVcRc7EwcDACGB5utSAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQmxMoAXoECHQQAw"
+      }
+    ],
+    "arena_stadium": "Anfield",
+    "arena_stadium_links": [
+      {
+        "text": "Arena/Stadium",
+        "link": "https://www.google.com/search?gl=us&q=liverpool+f.c.+arena/stadium&stick=H4sIAAAAAAAAAOPgE-LQz9U3MMkpSdNSyU620i8uyC8qKYZS8SWpiblWiUWpeYn6xSWJKZmluYtYZXIyy1KLCvLzcxTS9JL1FFCkAagCVhxRAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ6BMoAHoECG0QAg"
+      },
+      {
+        "text": "Anfield",
+        "link": "https://www.google.com/search?gl=us&q=Anfield&stick=H4sIAAAAAAAAAOPgE-LQz9U3MMkpSVPiBLEMLcyrirRUspOt9IsL8otKiqFUfElqYq5VYlFqXqJ-cUliSmZp7iJWdse8tMzUnJQdrIy72Jk4GAA3571RTwAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQmxMoAXoECG0QAw"
+      }
+    ],
+    "motto": "You'll Never Walk Alone",
+    "motto_links": [
+      {
+        "text": "Motto",
+        "link": "https://www.google.com/search?gl=us&q=liverpool+f.c.+motto&stick=H4sIAAAAAAAAAOPgE-LQz9U3MMkpSdNSyyi30k_Oz8lJTS7JzM_Tzy9KT8zLrEoEcYqtihLLFXLzS0ryF7GK5GSWpRYV5OfnKKTpJetBhAFnfS-aSwAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ6BMoAHoECHAQAg"
+      }
+    ],
+    "founder": "John Houlding",
+    "founder_links": [
+      {
+        "text": "Founder",
+        "link": "https://www.google.com/search?gl=us&q=liverpool+f.c.+founder&stick=H4sIAAAAAAAAAOPgE-LQz9U3MMkpSdNSz0620k8qLc7MSy0uhjPi8wtSixJLMvPzrNLyS_NSUosWsYrlZJalFhXk5-copOkl6ylAJQB_PxNYTgAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ6BMoAHoECG8QAg"
+      },
+      {
+        "text": "John Houlding",
+        "link": "https://www.google.com/search?gl=us&q=John+Houlding&stick=H4sIAAAAAAAAAOPgE-LQz9U3MMkpSVPiBLHM04qSzbXUs5Ot9JNKizPzUouL4Yz4_ILUosSSzPw8q7T80ryU1KJFrLxe-Rl5Ch75pTkpmXnpO1gZd7EzcTAAAMaszbZYAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQmxMoAXoECG8QAw"
+      }
+    ],
+    "parent_organization": "Fenway Sports Group",
+    "parent_organization_links": [
+      {
+        "text": "Parent organization",
+        "link": "https://www.google.com/search?gl=us&q=liverpool+f.c.+parent+organization&stick=H4sIAAAAAAAAAOPgE-LQz9U3MMkpSdMyyCi30k_Oz8lJTS7JzM_Tzy9KT8zLrEoEcYqtChKLUvNKFJAFF7Eq5WSWpRYV5OfnKKTpJespYFEEAN1dPJBjAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ6BMoAHoECG4QAg"
+      },
+      {
+        "text": "Fenway Sports Group",
+        "link": "https://www.google.com/search?gl=us&q=Fenway+Sports+Group&stick=H4sIAAAAAAAAAOPgE-LQz9U3MMkpSVPigrDSLIsytAwyyq30k_NzclKTSzLz8_Tzi9IT8zKrEkGcYquCxKLUvBIFZMFFrMJuqXnliZUKwQX5RSXFCu5F-aUFO1gZd7EzcTAAAA__N_doAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQmxMoAXoECG4QAw"
+      }
+    ],
+    "players": [
+      {
+        "name": "Mohamed Salah",
+        "extensions": "Forward",
+        "link": "https://www.google.com/search?gl=us&q=Mohamed+Salah&stick=H4sIAAAAAAAAAONgFuLQz9U3MMkpSVPiArGyjIvik7K1hIIL8otKikNSE3ND8oPyi0tSixax8vrmZyTmpqYoBCfmJGYAAHZnbdw8AAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQri56BAhzEAQ",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Mohamed+Salah&stick=H4sIAAAAAAAAAONgFuLQz9U3MMkpSVPiArGyjIvik7K1hIIL8otKikNSE3ND8oPyi0tSixax8vrmZyTmpqYoBCfmJGYAAHZnbdw8AAAA"
+      },
+      {
+        "name": "Darwin Núñez",
+        "extensions": "Forward",
+        "link": "https://www.google.com/search?gl=us&q=Darwin+N%C3%BA%C3%B1ez&stick=H4sIAAAAAAAAAONgFuLQz9U3MMkpSVPi1U_XNzRMSzPNKqgwNtcSCi7ILyopDklNzA3JD8ovLkktWsTK55JYVJ6Zp-B3eNfhjalVAKFaqN5AAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQri56BAhzEAY",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Darwin+N%C3%BA%C3%B1ez&stick=H4sIAAAAAAAAAONgFuLQz9U3MMkpSVPi1U_XNzRMSzPNKqgwNtcSCi7ILyopDklNzA3JD8ovLkktWsTK55JYVJ6Zp-B3eNfhjalVAKFaqN5AAAAA"
+      },
+      {
+        "name": "Luis Díaz",
+        "extensions": "Forward",
+        "link": "https://www.google.com/search?gl=us&q=Luis+D%C3%ADaz&stick=H4sIAAAAAAAAAONgFuLQz9U3MMkpSVPi1U_XNzRMNkuuMqisNNUSCi7ILyopDklNzA3JD8ovLkktWsTK5VOaWazgcnhtYhUATONd5TwAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQri56BAhzEAg",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Luis+D%C3%ADaz&stick=H4sIAAAAAAAAAONgFuLQz9U3MMkpSVPi1U_XNzRMNkuuMqisNNUSCi7ILyopDklNzA3JD8ovLkktWsTK5VOaWazgcnhtYhUATONd5TwAAAA"
+      },
+      {
+        "name": "Virgil van Dijk",
+        "extensions": "Defender",
+        "link": "https://www.google.com/search?gl=us&q=Virgil+van+Dijk&stick=H4sIAAAAAAAAAONgFuLQz9U3MMkpSVPiArGysqsKLLO1hIIL8otKikNSE3ND8oPyi0tSixax8odlFqVn5iiUJeYpuGRmZQMAqa60LD4AAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQri56BAhzEAo",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Virgil+van+Dijk&stick=H4sIAAAAAAAAAONgFuLQz9U3MMkpSVPiArGysqsKLLO1hIIL8otKikNSE3ND8oPyi0tSixax8odlFqVn5iiUJeYpuGRmZQMAqa60LD4AAAA"
+      }
+    ],
+    "players_link": "https://www.google.com/search?gl=us&q=liverpool+f.c.+players&stick=H4sIAAAAAAAAAONgFuLQz9U3MMkpSVOCs7Rks5Ot9IsL8otKiqFUfElqYq5VUX5xSWrRIlaxnMyy1KKC_PwchTS9ZD2FgpzEytSi4h2sjABSpP9BUQAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQMSgAegQIcxAB",
+    "players_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMkpSVOCs7Rks5Ot9IsL8otKiqFUfElqYq5VUX5xSWrRIlaxnMyy1KKC_PwchTS9ZD2FgpzEytSi4h2sjABSpP9BUQAAAA",
+    "profiles": [
+      {
+        "name": "Instagram",
+        "link": "https://www.instagram.com/liverpoolfc",
+        "image": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/18a7177d7efe45806ff2d714193738bb2ad5b519c01e13d1acc6338a9c84e51a7403c8bc94d8589a.png"
+      },
+      {
+        "name": "Twitter",
+        "link": "https://twitter.com/LFCUSA",
+        "image": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/18a7177d7efe45806ff2d714193738bb2ad5b519c01e13d18e2f3d3dca8ae42fb668ea820c96450c.png"
+      },
+      {
+        "name": "YouTube",
+        "link": "https://www.youtube.com/liverpoolfc",
+        "image": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/18a7177d7efe45806ff2d714193738bb2ad5b519c01e13d1c41896a4837e14f5a8c54e3a83ec611a.png"
+      },
+      {
+        "name": "LinkedIn",
+        "link": "https://www.linkedin.com/company/liverpool-football-club",
+        "image": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/18a7177d7efe45806ff2d714193738bb2ad5b519c01e13d18d42a2e3159c3fe68db456ecad718481.png"
+      },
+      {
+        "name": "TikTok",
+        "link": "https://www.tiktok.com/@liverpoolfc",
+        "image": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/18a7177d7efe45806ff2d714193738bb2ad5b519c01e13d14cefaa133034b2490b9b0c63c81947bc.png"
+      }
+    ],
+    "people_also_search_for": [
+      {
+        "name": "Manchester City F.C.",
+        "link": "https://www.google.com/search?gl=us&q=Man+City&si=AEcPFx5y3cpWB8t3QIlw940Bbgd-HLN-aNYSTraERzz0WyAsdP220C_5kw_CHoxt6C_bm0P9YrDjoaxkgkam7g3kD08jdQxcpeGAiegYH-VQcoZMBcITceQvPKPcIdb6fr8RO3taLK1w_5BPRBoH0h2pRGtpediwf9bDi2iUUduaBTL_ntFeKU-ZMVYlvdYlUyMUJMZcRNnpiPIPODD5Qewg0Y89LI_gWPhwn2nx3sTKP8r4NX4bQUJAAW9dQvLyG9859VUHK7SQLWk7tcNheujlnqWWtxolIdU9s2xuj3RS2pZyXrm7uA4%3D&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQxA16BAhyEAU",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Man+City&si=AEcPFx5y3cpWB8t3QIlw940Bbgd-HLN-aNYSTraERzz0WyAsdP220C_5kw_CHoxt6C_bm0P9YrDjoaxkgkam7g3kD08jdQxcpeGAiegYH-VQcoZMBcITceQvPKPcIdb6fr8RO3taLK1w_5BPRBoH0h2pRGtpediwf9bDi2iUUduaBTL_ntFeKU-ZMVYlvdYlUyMUJMZcRNnpiPIPODD5Qewg0Y89LI_gWPhwn2nx3sTKP8r4NX4bQUJAAW9dQvLyG9859VUHK7SQLWk7tcNheujlnqWWtxolIdU9s2xuj3RS2pZyXrm7uA4%3D",
+        "image": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/18a7177d7efe45806ff2d714193738bb65b3c67fefa74d00b6f4af06e715bce1c74863ff2c8a72f0510366280341e0e3.png"
+      },
+      {
+        "name": "Chelsea F.C.",
+        "link": "https://www.google.com/search?gl=us&q=Chelsea+F.C.&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN4du-nEjKiyOaC_3gMPTtdNE37iFogwfLL-ZEE898oD05zYY2iYdPn35e68p3aEs_Fe7-8XJuCjUmLYaQfgJIdUUTVf0yzteWjrYJuOgTmq6gRuLFfHC3uRJDRcCwykfW-k-QXtaIMvlHmaOOfFVpAJNpC0BxxVP-exHu1pAiGYqfjRjs1YmapWgNi1qFL1fASrn_arvCWP1X3KBitip64seu0ZVvTrrSnd-q_BhEwjwwp4A1gCUT-tdUBKP0fDPgkOp6lw%3D&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQxA16BAhyEAc",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Chelsea+F.C.&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN4du-nEjKiyOaC_3gMPTtdNE37iFogwfLL-ZEE898oD05zYY2iYdPn35e68p3aEs_Fe7-8XJuCjUmLYaQfgJIdUUTVf0yzteWjrYJuOgTmq6gRuLFfHC3uRJDRcCwykfW-k-QXtaIMvlHmaOOfFVpAJNpC0BxxVP-exHu1pAiGYqfjRjs1YmapWgNi1qFL1fASrn_arvCWP1X3KBitip64seu0ZVvTrrSnd-q_BhEwjwwp4A1gCUT-tdUBKP0fDPgkOp6lw%3D",
+        "image": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/18a7177d7efe45806ff2d714193738bb65b3c67fefa74d00b6f4af06e715bce1d325200f5956eea00add64f4d7406a0f.png"
+      },
+      {
+        "name": "FC Barcelona",
+        "link": "https://www.google.com/search?gl=us&q=FC+Barcelona&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN-fhlFqyOpJ-t2faLmhbh2Trb_tTMSxRlEybbUcEnhwugiRK7Av-Ja-BxzOsGKqOeggSwJUK-MiqJj0S_DvIFsM7Aml-idW3iiujHt5uYf2utj8ik4FxTdNHaZDMSbb-zlx9uXIIzSxRvDY3q77sghLtLYGCD2UUk13yHt4hn0cZcM6-HE7vZQrbTClXlCtT9XNpiLQ_sYbqGRk49RSRf950jFV0DHMpvFff9yC2YYH_BCqOrkcaT4YKpKZ0AnuyJWASllw%3D&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQxA16BAhyEAk",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=FC+Barcelona&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN-fhlFqyOpJ-t2faLmhbh2Trb_tTMSxRlEybbUcEnhwugiRK7Av-Ja-BxzOsGKqOeggSwJUK-MiqJj0S_DvIFsM7Aml-idW3iiujHt5uYf2utj8ik4FxTdNHaZDMSbb-zlx9uXIIzSxRvDY3q77sghLtLYGCD2UUk13yHt4hn0cZcM6-HE7vZQrbTClXlCtT9XNpiLQ_sYbqGRk49RSRf950jFV0DHMpvFff9yC2YYH_BCqOrkcaT4YKpKZ0AnuyJWASllw%3D",
+        "image": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/18a7177d7efe45806ff2d714193738bb65b3c67fefa74d00b6f4af06e715bce1cda28d308dcc415b58c130779e9112ca.png"
+      },
+      {
+        "name": "Arsenal F.C.",
+        "link": "https://www.google.com/search?gl=us&q=Arsenal&si=AEcPFx7vX9d0csuZ34IzPRSXb-Am7ArFzT07KJPtO1vMthDIwmThSVnLX5mDM8MoibQbWOCWUcuw_0L_zoDAINnyRMr_5U20qSJbNUiEZT9xibp3om3zUN67oGjjK_odNNXho7Doj1LLxTEjnC2PN-8IeM_iA32UQ1LiTQeRc0UkZvc9E1OjSYkQm9wruTnhrl_9tPZizDlHfT30FS4BdZNpq9x1dRdN24NEhpXuQrcCL0bnQmOI6V_kok9e6i4yweqSWg3LeBVSFSpBVnAU0gBUUr68w2iwCA%3D%3D&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQxA16BAhyEAs",
+        "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Arsenal&si=AEcPFx7vX9d0csuZ34IzPRSXb-Am7ArFzT07KJPtO1vMthDIwmThSVnLX5mDM8MoibQbWOCWUcuw_0L_zoDAINnyRMr_5U20qSJbNUiEZT9xibp3om3zUN67oGjjK_odNNXho7Doj1LLxTEjnC2PN-8IeM_iA32UQ1LiTQeRc0UkZvc9E1OjSYkQm9wruTnhrl_9tPZizDlHfT30FS4BdZNpq9x1dRdN24NEhpXuQrcCL0bnQmOI6V_kok9e6i4yweqSWg3LeBVSFSpBVnAU0gBUUr68w2iwCA%3D%3D",
+        "image": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/18a7177d7efe45806ff2d714193738bb65b3c67fefa74d00b6f4af06e715bce13ba9ead892fd3981a4a243605946bb6c.png"
+      }
+    ],
+    "people_also_search_for_link": "https://www.google.com/search?gl=us&q=Liverpool+F.C.&stick=H4sIAAAAAAAAAONgFuLQz9U3MMkpSVOCs7QEgzNTUssTK4v9UitKgktSC4oXsfL5ZJalFhXk5-couOk56-1gZQQAEteeND0AAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQMSgAegQIchAB",
+    "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLQz9U3MMkpSVOCs7QEgzNTUssTK4v9UitKgktSC4oXsfL5ZJalFhXk5-couOk56-1gZQQAEteeND0AAAA",
+    "see_results_about": [
+      {
+        "name": "Liverpool F.C. Women",
+        "extensions": [
+          "Soccer club"
+        ],
+        "link": "https://www.google.com/search?gl=us&q=Liverpool+F.C.+Women&si=AEcPFx4CiSi-1N8egv6n8R2dVaER30-2r55zl_MPRp9RuQtrP3dx7TzL2PjTZstmxq5jEqrW9S_iTNZdfSISv1BY0LhP778d1ubTgbe2acX27puEa6JhgNNGDLg_FsIpt3UNCWUqUs2bXkJ7SuIeacm-i9_m5DuTj3a4Fyx5NzoDoT0twtqJ25kCovMept8iKZhhBYCWV9Ce&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ6RN6BAghEAE",
+        "image": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/18a7177d7efe45806ff2d714193738bbeba695c48112be7428961e5bbc77ca11192a960575dd70aaf8f8454332b817aa.png"
+      }
+    ]
+  },
+  "twitter_results": {
+    "title": "Liverpool FC (@LFC) · Twitter",
+    "link": "https://twitter.com/LFC?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+    "displayed_link": "https://twitter.com/LFC",
+    "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSosyO0wtogRtyIgW1cIq1wi4tws0W18IyMtUL5hucVtCBca_dPWr2DMOMZihi6KxApmjnpFA&s=10",
+    "tweets": [
+      {
+        "link": "https://twitter.com/LFC/status/1623252798623064064?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "Congratulations on becoming the NBA’s all-time leading scorer, @KingJames 👑🏀 A truly incredible achievement 👏",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSosyO0wtogRtyIgW1cIq1wi4tws0W18IyMtUL5hucVtCBca_dPWr2DMOMZihi6KxApmjnpFA&s=10",
+        "published_date": "19 hours ago"
+      },
+      {
+        "link": "https://twitter.com/LFC/status/1622973463769284608?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "A new date has been confirmed for our @PremierLeague fixture with Wolves at Anfield 📌",
+        "published_date": "2 days ago"
+      },
+      {
+        "link": "https://twitter.com/LFC/status/1623233923365969922?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "The Liverpool FC x LeBron collection ⏳",
+        "published_date": "20 hours ago"
+      },
+      {
+        "link": "https://twitter.com/LFC/status/1623281235240923137?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "We put four past Arsenal inside the opening 2️⃣0️⃣ minutes #OnThisDay in 2014 🎯",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTFL7EesyE4sgqoef3pB6gBW2-6Z9zAPztzt5xoGaramuDBO7rMYmtVXTQpHHqnm747UmQcQ&s=10",
+        "published_date": "17 hours ago"
+      },
+      {
+        "link": "https://twitter.com/LFC/status/1623351233221107712?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+        "snippet": "Harvey Elliott’s strike at Wolves is our @EASPORTSFIFA Goal of the Month for January ⚽",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8XheQxhXspE8NF6ecsX9b1JGWMCwHkmockHZu4GIugLXVjk6qQ_lx9Ts&s=10",
+        "published_date": "12 hours ago"
+      }
+    ]
+  },
+  "inline_images": [
+    {
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&source=univ&fir=DL64EqfwWLxK4M%252C-ACJmZ9iiBFn6M%252C_%253BDlmGnDjN27tqsM%252CrgGZ25u-AKytyM%252C_%253B22PRps8e2skeEM%252Cu45gftVsHg8RkM%252C_%253BLWY1FlAG22-SGM%252CrgGZ25u-AKytyM%252C_%253BcoEnfgktLb9wbM%252CLYMA6FLtVr0oOM%252C_%253BhGNj35QXOfhLUM%252CW_qHfj3ojF9sMM%252C_%253BDLsKRhM8i4afRM%252CQlAp0rjlGwXJYM%252C_%253BILVbOXtGFbcUfM%252CWf2ZD7vmmXrjbM%252C_%253BuSqm3uDzpoxYiM%252CE2RXAZlkOA3kDM%252C_%253BjnEiNNmPZikS4M%252CrgGZ25u-AKytyM%252C_&usg=AI4_-kQXZpv6Liv0hQ671zwnG03DhrnBog&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ9AF6BAhREAA#imgrc=DL64EqfwWLxK4M",
+      "source": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaBuxh1_kh7CPuIXLWydP-9lIdhHipa74iEJ2C2kGJ&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&source=univ&fir=DL64EqfwWLxK4M%252C-ACJmZ9iiBFn6M%252C_%253BDlmGnDjN27tqsM%252CrgGZ25u-AKytyM%252C_%253B22PRps8e2skeEM%252Cu45gftVsHg8RkM%252C_%253BLWY1FlAG22-SGM%252CrgGZ25u-AKytyM%252C_%253BcoEnfgktLb9wbM%252CLYMA6FLtVr0oOM%252C_%253BhGNj35QXOfhLUM%252CW_qHfj3ojF9sMM%252C_%253BDLsKRhM8i4afRM%252CQlAp0rjlGwXJYM%252C_%253BILVbOXtGFbcUfM%252CWf2ZD7vmmXrjbM%252C_%253BuSqm3uDzpoxYiM%252CE2RXAZlkOA3kDM%252C_%253BjnEiNNmPZikS4M%252CrgGZ25u-AKytyM%252C_&usg=AI4_-kQXZpv6Liv0hQ671zwnG03DhrnBog&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ9AF6BAhSEAA#imgrc=DlmGnDjN27tqsM",
+      "source": "https://twitter.com/LFC_Austin",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9BZbej9rP5lvquaWC-CgFHJXwxIGfS7VrPV-aQfXdsg&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&source=univ&fir=DL64EqfwWLxK4M%252C-ACJmZ9iiBFn6M%252C_%253BDlmGnDjN27tqsM%252CrgGZ25u-AKytyM%252C_%253B22PRps8e2skeEM%252Cu45gftVsHg8RkM%252C_%253BLWY1FlAG22-SGM%252CrgGZ25u-AKytyM%252C_%253BcoEnfgktLb9wbM%252CLYMA6FLtVr0oOM%252C_%253BhGNj35QXOfhLUM%252CW_qHfj3ojF9sMM%252C_%253BDLsKRhM8i4afRM%252CQlAp0rjlGwXJYM%252C_%253BILVbOXtGFbcUfM%252CWf2ZD7vmmXrjbM%252C_%253BuSqm3uDzpoxYiM%252CE2RXAZlkOA3kDM%252C_%253BjnEiNNmPZikS4M%252CrgGZ25u-AKytyM%252C_&usg=AI4_-kQXZpv6Liv0hQ671zwnG03DhrnBog&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ9AF6BAhqEAA#imgrc=22PRps8e2skeEM",
+      "source": "https://www.forbes.com/teams/liverpool/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTup-JGWoJHpeAiAd8CTXqzGR2rxJkkay8-xDpC6Bdyag&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&source=univ&fir=DL64EqfwWLxK4M%252C-ACJmZ9iiBFn6M%252C_%253BDlmGnDjN27tqsM%252CrgGZ25u-AKytyM%252C_%253B22PRps8e2skeEM%252Cu45gftVsHg8RkM%252C_%253BLWY1FlAG22-SGM%252CrgGZ25u-AKytyM%252C_%253BcoEnfgktLb9wbM%252CLYMA6FLtVr0oOM%252C_%253BhGNj35QXOfhLUM%252CW_qHfj3ojF9sMM%252C_%253BDLsKRhM8i4afRM%252CQlAp0rjlGwXJYM%252C_%253BILVbOXtGFbcUfM%252CWf2ZD7vmmXrjbM%252C_%253BuSqm3uDzpoxYiM%252CE2RXAZlkOA3kDM%252C_%253BjnEiNNmPZikS4M%252CrgGZ25u-AKytyM%252C_&usg=AI4_-kQXZpv6Liv0hQ671zwnG03DhrnBog&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ9AF6BAhAEAA#imgrc=LWY1FlAG22-SGM",
+      "source": "https://twitter.com/LFC_Austin",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpcjDoglunh96U4DrVlhj-v2rEfkj59plQJCz3Dp7yvA&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&source=univ&fir=DL64EqfwWLxK4M%252C-ACJmZ9iiBFn6M%252C_%253BDlmGnDjN27tqsM%252CrgGZ25u-AKytyM%252C_%253B22PRps8e2skeEM%252Cu45gftVsHg8RkM%252C_%253BLWY1FlAG22-SGM%252CrgGZ25u-AKytyM%252C_%253BcoEnfgktLb9wbM%252CLYMA6FLtVr0oOM%252C_%253BhGNj35QXOfhLUM%252CW_qHfj3ojF9sMM%252C_%253BDLsKRhM8i4afRM%252CQlAp0rjlGwXJYM%252C_%253BILVbOXtGFbcUfM%252CWf2ZD7vmmXrjbM%252C_%253BuSqm3uDzpoxYiM%252CE2RXAZlkOA3kDM%252C_%253BjnEiNNmPZikS4M%252CrgGZ25u-AKytyM%252C_&usg=AI4_-kQXZpv6Liv0hQ671zwnG03DhrnBog&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ9AF6BAhQEAA#imgrc=coEnfgktLb9wbM",
+      "source": "https://www.espn.com/soccer/team/_/id/364",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWLJ-oL9KH_jl0PHR_9bhl3J39jyuAioHL938FWc9Ing&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&source=univ&fir=DL64EqfwWLxK4M%252C-ACJmZ9iiBFn6M%252C_%253BDlmGnDjN27tqsM%252CrgGZ25u-AKytyM%252C_%253B22PRps8e2skeEM%252Cu45gftVsHg8RkM%252C_%253BLWY1FlAG22-SGM%252CrgGZ25u-AKytyM%252C_%253BcoEnfgktLb9wbM%252CLYMA6FLtVr0oOM%252C_%253BhGNj35QXOfhLUM%252CW_qHfj3ojF9sMM%252C_%253BDLsKRhM8i4afRM%252CQlAp0rjlGwXJYM%252C_%253BILVbOXtGFbcUfM%252CWf2ZD7vmmXrjbM%252C_%253BuSqm3uDzpoxYiM%252CE2RXAZlkOA3kDM%252C_%253BjnEiNNmPZikS4M%252CrgGZ25u-AKytyM%252C_&usg=AI4_-kQXZpv6Liv0hQ671zwnG03DhrnBog&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ9AF6BAhHEAA#imgrc=hGNj35QXOfhLUM",
+      "source": "https://www.premierleague.com/clubs/10/Liverpool/overview",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTQSouLGj27NyKYwJjORiWlMFJq4oPvp_b3hc6zppd9A&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&source=univ&fir=DL64EqfwWLxK4M%252C-ACJmZ9iiBFn6M%252C_%253BDlmGnDjN27tqsM%252CrgGZ25u-AKytyM%252C_%253B22PRps8e2skeEM%252Cu45gftVsHg8RkM%252C_%253BLWY1FlAG22-SGM%252CrgGZ25u-AKytyM%252C_%253BcoEnfgktLb9wbM%252CLYMA6FLtVr0oOM%252C_%253BhGNj35QXOfhLUM%252CW_qHfj3ojF9sMM%252C_%253BDLsKRhM8i4afRM%252CQlAp0rjlGwXJYM%252C_%253BILVbOXtGFbcUfM%252CWf2ZD7vmmXrjbM%252C_%253BuSqm3uDzpoxYiM%252CE2RXAZlkOA3kDM%252C_%253BjnEiNNmPZikS4M%252CrgGZ25u-AKytyM%252C_&usg=AI4_-kQXZpv6Liv0hQ671zwnG03DhrnBog&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ9AF6BAhWEAA#imgrc=DLsKRhM8i4afRM",
+      "source": "https://www.mirror.co.uk/all-about/liverpool-fc",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2JpIrIGQuYx5VNLU2WjyyL9mXH63EDIPQQDbYX41I-w&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&source=univ&fir=DL64EqfwWLxK4M%252C-ACJmZ9iiBFn6M%252C_%253BDlmGnDjN27tqsM%252CrgGZ25u-AKytyM%252C_%253B22PRps8e2skeEM%252Cu45gftVsHg8RkM%252C_%253BLWY1FlAG22-SGM%252CrgGZ25u-AKytyM%252C_%253BcoEnfgktLb9wbM%252CLYMA6FLtVr0oOM%252C_%253BhGNj35QXOfhLUM%252CW_qHfj3ojF9sMM%252C_%253BDLsKRhM8i4afRM%252CQlAp0rjlGwXJYM%252C_%253BILVbOXtGFbcUfM%252CWf2ZD7vmmXrjbM%252C_%253BuSqm3uDzpoxYiM%252CE2RXAZlkOA3kDM%252C_%253BjnEiNNmPZikS4M%252CrgGZ25u-AKytyM%252C_&usg=AI4_-kQXZpv6Liv0hQ671zwnG03DhrnBog&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ9AF6BAhTEAA#imgrc=ILVbOXtGFbcUfM",
+      "source": "https://www.facebook.com/groups/LFCATX/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxYvYY3DTaT4zSJ5vZFgshaK4DONcy0Pwlq9Nh6biOJA&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&source=univ&fir=DL64EqfwWLxK4M%252C-ACJmZ9iiBFn6M%252C_%253BDlmGnDjN27tqsM%252CrgGZ25u-AKytyM%252C_%253B22PRps8e2skeEM%252Cu45gftVsHg8RkM%252C_%253BLWY1FlAG22-SGM%252CrgGZ25u-AKytyM%252C_%253BcoEnfgktLb9wbM%252CLYMA6FLtVr0oOM%252C_%253BhGNj35QXOfhLUM%252CW_qHfj3ojF9sMM%252C_%253BDLsKRhM8i4afRM%252CQlAp0rjlGwXJYM%252C_%253BILVbOXtGFbcUfM%252CWf2ZD7vmmXrjbM%252C_%253BuSqm3uDzpoxYiM%252CE2RXAZlkOA3kDM%252C_%253BjnEiNNmPZikS4M%252CrgGZ25u-AKytyM%252C_&usg=AI4_-kQXZpv6Liv0hQ671zwnG03DhrnBog&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ9AF6BAhfEAA#imgrc=uSqm3uDzpoxYiM",
+      "source": "https://olsc-atx.square.site/",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeMWJH6ESsFqyJZYx6rQKLx33OGoR-qaVKKcBz58JV_g&s"
+    },
+    {
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&source=univ&fir=DL64EqfwWLxK4M%252C-ACJmZ9iiBFn6M%252C_%253BDlmGnDjN27tqsM%252CrgGZ25u-AKytyM%252C_%253B22PRps8e2skeEM%252Cu45gftVsHg8RkM%252C_%253BLWY1FlAG22-SGM%252CrgGZ25u-AKytyM%252C_%253BcoEnfgktLb9wbM%252CLYMA6FLtVr0oOM%252C_%253BhGNj35QXOfhLUM%252CW_qHfj3ojF9sMM%252C_%253BDLsKRhM8i4afRM%252CQlAp0rjlGwXJYM%252C_%253BILVbOXtGFbcUfM%252CWf2ZD7vmmXrjbM%252C_%253BuSqm3uDzpoxYiM%252CE2RXAZlkOA3kDM%252C_%253BjnEiNNmPZikS4M%252CrgGZ25u-AKytyM%252C_&usg=AI4_-kQXZpv6Liv0hQ671zwnG03DhrnBog&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ9AF6BAhVEAA#imgrc=jnEiNNmPZikS4M",
+      "source": "https://twitter.com/LFC_Austin",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMfH-q6PzCqckDLDgOyhJh5uOPyEFaEuZReoROrO7BA&s"
+    }
+  ],
+  "inline_images_suggested_searches": [
+    {
+      "name": "football club",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:football+club:vFjwpxK4vgw%3D&usg=AI4_-kQMVT4cCngRlNHuIAct_bAumWlAKw&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAB6BAgiEBE",
+      "chips": "q:liverpool,online_chips:football+club:vFjwpxK4vgw%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Afootball%2Bclub%3AvFjwpxK4vgw%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMIW-WaWjbDpd3WECHhvUDOm6LY-ZCYbbVjC_ir_itFnSI6YchGbQTqfkbag&s"
+    },
+    {
+      "name": "premier league",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:premier+league:EXUr4HD7UH0%3D&usg=AI4_-kTtQc6VbH-mzrJ4YYNuUiF6-HSoYQ&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAF6BAgiEBU",
+      "chips": "q:liverpool,online_chips:premier+league:EXUr4HD7UH0%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Apremier%2Bleague%3AEXUr4HD7UH0%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxlXycBY6nY48blvgFZQ2G8A18Jo1Z_PKPtwy6BKf0haGE336Yx6ydbgjBwg&s"
+    },
+    {
+      "name": "liverpool football",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:liverpool+football:QVHp1yWc4So%3D&usg=AI4_-kRv0II12uKWeOownXxZNaNwjGZp8g&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAJ6BAgiEBk",
+      "chips": "q:liverpool,online_chips:liverpool+football:QVHp1yWc4So%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Aliverpool%2Bfootball%3AQVHp1yWc4So%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCQEHOA-TCFGfGblajxzX_i5nzboHugxhc9ClRH9u4KjNCNJot5qmYT1n85g&s"
+    },
+    {
+      "name": "austin tx",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:austin+tx&usg=AI4_-kRzmXjGp2KoW7vAhViLgb0wPlyldg&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAN6BAgiEB0",
+      "chips": "q:liverpool,online_chips:austin+tx",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Aaustin%2Btx&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool"
+    },
+    {
+      "name": "liverpool match",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:liverpool+match&usg=AI4_-kQLW-M9ZeU34aOYlWUv4cWpM7NLoA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAR6BAgiECA",
+      "chips": "q:liverpool,online_chips:liverpool+match",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Aliverpool%2Bmatch&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool"
+    },
+    {
+      "name": "jürgen klopp",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:j%C3%BCrgen+klopp:Mq_421R-7bk%3D&usg=AI4_-kQhmaXLa6ASeu_UgGDH5ZbddibUOQ&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAV6BAgiECM",
+      "chips": "q:liverpool,online_chips:j%C3%BCrgen+klopp:Mq_421R-7bk%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Aj%25C3%25BCrgen%2Bklopp%3AMq_421R-7bk%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMrZXYd780ZUP0c98FFg_6qg2Zm-3Y8Fpr6U-nB5WZPae1xXAxgRj19fEMzg&s"
+    },
+    {
+      "name": "lfc",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:lfc:ydoez6bRY9s%3D&usg=AI4_-kRO3l8QaXFIxL2VXaGql5vk3bZG1Q&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAZ6BAgiECc",
+      "chips": "q:liverpool,online_chips:lfc:ydoez6bRY9s%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Alfc%3Aydoez6bRY9s%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkN0g9uzzyrsI6RprOxk_BUrbIQxvp5lENZSmTSe_hqQ&s"
+    },
+    {
+      "name": "liverpool transfer",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:liverpool+transfer:hos8E0YKuww%3D&usg=AI4_-kS6o-Y9J5VxXbjrL-0b1OlroUWLcw&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAd6BAgiECs",
+      "chips": "q:liverpool,online_chips:liverpool+transfer:hos8E0YKuww%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Aliverpool%2Btransfer%3Ahos8E0YKuww%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkQZTHnha8K7cXQzNnfEj5Rs1ORf8Cz361dsiAo_MUml_IT9vL_H22NWhN5A&s"
+    },
+    {
+      "name": "liverpool fixtures",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:liverpool+fixtures&usg=AI4_-kR5FwVHZCnt3SlgZ56T34WjRZn4PQ&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAh6BAgiEC8",
+      "chips": "q:liverpool,online_chips:liverpool+fixtures",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Aliverpool%2Bfixtures&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool"
+    },
+    {
+      "name": "espn",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:espn&usg=AI4_-kTiUeC48YNkhZk3rLYcD4XytgggnA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAl6BAgiEDI",
+      "chips": "q:liverpool,online_chips:espn",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Aespn&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool"
+    },
+    {
+      "name": "soccer team",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:soccer+team:Vt_DIuQeHro%3D&usg=AI4_-kRLWJE3-SeBWDaN0lNVrjRvLz7IWw&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAp6BAgiEDU",
+      "chips": "q:liverpool,online_chips:soccer+team:Vt_DIuQeHro%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Asoccer%2Bteam%3AVt_DIuQeHro%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxKfeY7xXOX9BgKlyWl-pVPfmqZ6OsDsHv8fs5X7kWPg&s"
+    },
+    {
+      "name": "yahoo",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:yahoo&usg=AI4_-kRQOZKxJjzpT7s3FuQPinL7CsPuYQ&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAt6BAgiEDk",
+      "chips": "q:liverpool,online_chips:yahoo",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Ayahoo&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool"
+    },
+    {
+      "name": "fox sports",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:fox+sports&usg=AI4_-kRm_Rq_kq4_VypwHG4MheYwPFUJ5w&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKAx6BAgiEDw",
+      "chips": "q:liverpool,online_chips:fox+sports",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Afox%2Bsports&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool"
+    },
+    {
+      "name": "supporters club",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:supporters+club:jKbz4N6mKrk%3D&usg=AI4_-kSoeNbid9BVZf__rK6w-a-XmaqRcg&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKA16BAgiED8",
+      "chips": "q:liverpool,online_chips:supporters+club:jKbz4N6mKrk%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Asupporters%2Bclub%3AjKbz4N6mKrk%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq9JEwkKbsB-fj_hHkm3eqSG7B9hWV7u5pOpyvhwG4VA&s"
+    },
+    {
+      "name": "liverpool premier",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:liverpool+premier&usg=AI4_-kSpkJ2I5nlt5TcXy193fM9u-N5ycw&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKA56BAgiEEM",
+      "chips": "q:liverpool,online_chips:liverpool+premier",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Aliverpool%2Bpremier&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool"
+    },
+    {
+      "name": "liverpool news",
+      "link": "https://www.google.com/search?gl=us&q=liverpool&tbm=isch&chips=q:liverpool,online_chips:liverpool+news:2QyRLrgPOsc%3D&usg=AI4_-kTROniXepLW2nhZtkQ8QD37eHqkZw&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQgIoDKA96BAgiEEY",
+      "chips": "q:liverpool,online_chips:liverpool+news:2QyRLrgPOsc%3D",
+      "serpapi_link": "https://serpapi.com/search.json?chips=q%3Aliverpool%2Conline_chips%3Aliverpool%2Bnews%3A2QyRLrgPOsc%253D&device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrJj9HseHM5uXhzw-xsOYSrHxBu4xrSlBuBGwPY1x5qg&s"
+    }
+  ],
+  "inline_videos": [
+    {
+      "position": 1,
+      "title": "Wolves v. Liverpool | PREMIER LEAGUE HIGHLIGHTS | 2/4 ...",
+      "link": "https://www.google.com#fpstate=ive&vld=cid:94371112,vid:cVfWzjmUOo8",
+      "thumbnail": "https://i.ytimg.com/vi/cVfWzjmUOo8/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3mYVw323YAl6zaYhYcVIAgGI0BOdQ",
+      "channel": "NBC Sports",
+      "duration": "14:31",
+      "platform": "YouTube",
+      "date": "4 days ago"
+    },
+    {
+      "position": 2,
+      "title": "HIGHLIGHTS: Wolves 3-0 Liverpool | Defeat for Reds at ...",
+      "link": "https://www.youtube.com/watch?v=xCUbcOY84Kc",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS97-ApC-TWvEdDytEz6RxiS4cQRowCTAGposgPj9JweYI&s",
+      "channel": "Liverpool FC",
+      "duration": "2:07",
+      "platform": "YouTube",
+      "date": "4 days ago"
+    },
+    {
+      "position": 3,
+      "title": "Manchester United vs. Barcelona OR Real Madrid vs ...",
+      "link": "https://www.google.com#fpstate=ive&vld=cid:2739f752,vid:2BYh_32Nbyg",
+      "thumbnail": "https://i.ytimg.com/vi/2BYh_32Nbyg/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3n23ctNTYPmAh6f2U7pi52LcQ6BSA",
+      "channel": "ESPN FC",
+      "duration": "14:31",
+      "platform": "YouTube",
+      "date": "1 day ago"
+    }
+  ],
+  "inline_people_also_search_for": [
+    {
+      "title": "Premier League teams",
+      "items": [
+        {
+          "name": "Manchester United F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKGx7NkS5EwcMtYCcqiPNpcXwVSqvt7jgFSzkS&s=0",
+          "link": "https://www.google.com/search?gl=us&q=Man+United&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDVIyzASKShKzc1MLVLISU1ML01VKElNzC2O4szJLEstKsjPzznFCFd7ipETxDQ0MzapgAobGaclnWJkBzErknKhghllWUVQZlpZTiWUmZubYnaKkQtsQkWeeYUhVDwpxwJmSXJ2mtkvRpEAqIt8kFy0iJXLNzFPITQvsyQ15RabJEOTgJSEn8I1hq8_jtYGJXUfKU5j-L_QbM0rAEVmgN3dAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQs9oBKAB6BAhDEAI",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Man+United&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDVIyzASKShKzc1MLVLISU1ML01VKElNzC2O4szJLEstKsjPzznFCFd7ipETxDQ0MzapgAobGaclnWJkBzErknKhghllWUVQZlpZTiWUmZubYnaKkQtsQkWeeYUhVDwpxwJmSXJ2mtkvRpEAqIt8kFy0iJXLNzFPITQvsyQ15RabJEOTgJSEn8I1hq8_jtYGJXUfKU5j-L_QbM0rAEVmgN3dAAAA"
+        },
+        {
+          "name": "Manchester City F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIv44EmGN4Or20Ao3z00o2fOLEQXiQ4_yja80z&s=0",
+          "link": "https://www.google.com/search?gl=us&q=Man+City&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQzNqkwEikoSs3NTC1SyElNTC9NVShJTcwtjuLMySxLLSrIz885xcgBUmxqkJZxihGhDypsZJyWdIqRHcSsSMqFCmaUZRVBmWllOZVQZm5uitkpRi6wCRV55hWGUPGkHAuYJcnZaWa_GEUCoC7yQXLRIlYO38Q8BefMkspbbJIMTQJSEn4K1xi-_jhaG5TUfaQ4jeH_QrM1rwAbu-h73AAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQs9oBKAF6BAhDEAM",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Man+City&stick=H4sIAAAAAAAAAOOQUeLUz9U3MDQzNqkwEikoSs3NTC1SyElNTC9NVShJTcwtjuLMySxLLSrIz885xcgBUmxqkJZxihGhDypsZJyWdIqRHcSsSMqFCmaUZRVBmWllOZVQZm5uitkpRi6wCRV55hWGUPGkHAuYJcnZaWa_GEUCoC7yQXLRIlYO38Q8BefMkspbbJIMTQJSEn4K1xi-_jhaG5TUfaQ4jeH_QrM1rwAbu-h73AAAAA"
+        },
+        {
+          "name": "Chelsea F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHk77h9wF918cfEZS1MhnRr-skWcmsrJgOY6Tj&s=0",
+          "link": "https://www.google.com/search?gl=us&q=Chelsea+F.C.&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDJOSzISKShKzc1MLVLISU1ML01VKElNzC2O4szJLEstKsjPzznFCFZrapCWcYqRE8Q0NDM2qYAKg4w4xcgOYlYk5UIFM8qyiqDMtLKcSigzNzfF7BQjF9iEijzzCkOoeFKOBcyS5Ow0s1-MIgFQF_kguWgRK49zRmpOcWqigpues94tNkmGJgEpCT-FawxffxytDUrqPlKcxvB_odmaVwDa2l3k3wAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQs9oBKAJ6BAhDEAQ",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Chelsea+F.C.&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDJOSzISKShKzc1MLVLISU1ML01VKElNzC2O4szJLEstKsjPzznFCFZrapCWcYqRE8Q0NDM2qYAKg4w4xcgOYlYk5UIFM8qyiqDMtLKcSigzNzfF7BQjF9iEijzzCkOoeFKOBcyS5Ow0s1-MIgFQF_kguWgRK49zRmpOcWqigpues94tNkmGJgEpCT-FawxffxytDUrqPlKcxvB_odmaVwDa2l3k3wAAAA"
+        },
+        {
+          "name": "Arsenal F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25bhYlxCrzc0gzfaf9sj0coMhgC74zKmWfg71&s=0",
+          "link": "https://www.google.com/search?gl=us&q=Arsenal&stick=H4sIAAAAAAAAAOOQUWLXz9U3qEjKNRIpKErNzUwtUshJTUwvTVUoSU3MLY7izMksSy0qyM_POcXIAVJqapCWcYqRE8Q0NDM2qYAKGxmnJZ1ihBkGFcwoyyqCMtPKciqhzNzcFLNTjFxgEyryzCsMoeJJORYwS5Kz08x-MYoEQF3kg-SiRazsjkXFqXmJObfYJBmaBKQk_BSuMXz9cbQ2KKn7SHEaw_-FZmteAQAcldIE2QAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQs9oBKAN6BAhDEAU",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Arsenal&stick=H4sIAAAAAAAAAOOQUWLXz9U3qEjKNRIpKErNzUwtUshJTUwvTVUoSU3MLY7izMksSy0qyM_POcXIAVJqapCWcYqRE8Q0NDM2qYAKGxmnJZ1ihBkGFcwoyyqCMtPKciqhzNzcFLNTjFxgEyryzCsMoeJJORYwS5Kz08x-MYoEQF3kg-SiRazsjkXFqXmJObfYJBmaBKQk_BSuMXz9cbQ2KKn7SHEaw_-FZmteAQAcldIE2QAAAA"
+        },
+        {
+          "name": "Tottenham Hotspur F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMaO0CCV1kz8iyoxQD02M-bV6132adh1S9j4NP&s=0",
+          "link": "https://www.google.com/search?gl=us&q=Tottenham&stick=H4sIAAAAAAAAAOOQUeLQz9U3yCjLKjISKShKzc1MLVLISU1ML01VKElNzC2O4szJLEstKsjPzznFCFZrapCWcYqRE8Q0NDM2qYAKGxmnJZ1iZAcxK5JyoYIgc6HMtLKcSigzNzfF7BQjF9iEijzzCkOoeFKOBcyS5Ow0s1-MIgFQF_kguWgRK2dIfklJal5GYu4tNkmGJgEpCT-FawxffxytDUrqPlKcxvB_odmaVwB9aBa_3AAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQs9oBKAR6BAhDEAY",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Tottenham&stick=H4sIAAAAAAAAAOOQUeLQz9U3yCjLKjISKShKzc1MLVLISU1ML01VKElNzC2O4szJLEstKsjPzznFCFZrapCWcYqRE8Q0NDM2qYAKGxmnJZ1iZAcxK5JyoYIgc6HMtLKcSigzNzfF7BQjF9iEijzzCkOoeFKOBcyS5Ow0s1-MIgFQF_kguWgRK2dIfklJal5GYu4tNkmGJgEpCT-FawxffxytDUrqPlKcxvB_odmaVwB9aBa_3AAAAA"
+        },
+        {
+          "name": "Newcastle United F.C.",
+          "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLqtUYLziORrb_w6H42dI0nBXBk33i8DHxGVoG&s=0",
+          "link": "https://www.google.com/search?gl=us&q=Newcastle+United+F.C.&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCvLqTQSKShKzc1MLVLISU1ML01VKElNzC2O4szJLEstKsjPzznFCFZrapCWcYqRE8Q0NDM2qYAKGxmnJZ1iZAcxK5JyoYIZZVlFUCbICigzNzfF7BQjF9iEijzzCkOoeFKOBcyS5Ow0s1-MIgFQF_kguWgRq6hfanlyYnFJTqpCaF5mSWqKgpues94tNkmGJgEpCT-FawxffxytDUrqPlKcxvB_odmaVwBKnPjk6AAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQs9oBKAV6BAhDEAc",
+          "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Newcastle+United+F.C.&stick=H4sIAAAAAAAAAOOQUeLQz9U3SCvLqTQSKShKzc1MLVLISU1ML01VKElNzC2O4szJLEstKsjPzznFCFZrapCWcYqRE8Q0NDM2qYAKGxmnJZ1iZAcxK5JyoYIZZVlFUCbICigzNzfF7BQjF9iEijzzCkOoeFKOBcyS5Ow0s1-MIgFQF_kguWgRq6hfanlyYnFJTqpCaF5mSWqKgpues94tNkmGJgEpCT-FawxffxytDUrqPlKcxvB_odmaVwBKnPjk6AAAAA"
+        }
+      ],
+      "see_more_link": "https://www.google.com/search?gl=us&q=Premier+League+teams&stick=H4sIAAAAAAAAAOOQMRIpKErNzUwtUshJTUwvTVUoSU3MLY7izMksSy0qyM_POcXIoZ-rb2BqkJZxipETxDQ0MzapgAobGaclnWJkBzErknKhghllWUVQZlpZTiWUmZubYnaKkQtsQkWeeYUhVDwpxwJmSXJ2mtkvRpEAqIt8kFy0iBWr8C02SYYmASkJP4VrDF9_HK0NSuo-UpzG8H-h2ZpXAEFb_kHdAAAA&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ4qYDegQIQxAI",
+      "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=Premier+League+teams&stick=H4sIAAAAAAAAAOOQMRIpKErNzUwtUshJTUwvTVUoSU3MLY7izMksSy0qyM_POcXIoZ-rb2BqkJZxipETxDQ0MzapgAobGaclnWJkBzErknKhghllWUVQZlpZTiWUmZubYnaKkQtsQkWeeYUhVDwpxwJmSXJ2mtkvRpEAqIt8kFy0iBWr8C02SYYmASkJP4VrDF9_HK0NSuo-UpzG8H-h2ZpXAEFb_kHdAAAA"
+    }
+  ],
+  "top_stories": [
+    {
+      "title": "Liverpool transfer news - Paul Mitchell to leave, Edson Alvarez monitored, Jarrad Branthwaite scouted",
+      "link": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/liverpool-transfer-news-alvarez-26183582",
+      "source": "Liverpool Echo",
+      "date": "5 hours ago",
+      "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/a6685576bb2d3c1685646b9ff247e68bf801bea4ddf47f5b.jpeg"
+    },
+    {
+      "title": "Chelsea, Liverpool, AC Milan top Champions League panic index",
+      "link": "https://www.espn.com/soccer/blog-espn-fc-united/story/4871106/chelsea-liverpool-ac-milan-top-champions-league-panic-index",
+      "source": "ESPN",
+      "date": "1 day ago",
+      "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/a6685576bb2d3c161953cd9b301287e730556da90d8942e1.jpeg"
+    },
+    {
+      "title": "Liverpool should continue 'two-year cycle' Michael Edwards transfer trend with clever FSG move",
+      "link": "https://www.liverpool.com/liverpool-fc-news/transfer-news/liverpool-transfer-fsg-michael-edwards-26187955",
+      "source": "Liverpool.com",
+      "date": "40 mins ago",
+      "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/a6685576bb2d3c16c5b7221901ec139a24fd7257cd7701cc.jpeg"
+    },
+    {
+      "title": "Jurgen Klopp stance faces ultimate test in summer amid Liverpool transfer reality",
+      "link": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/jurgen-klopp-stance-liverpool-transfer-26188854",
+      "source": "Liverpool Echo",
+      "date": "1 hour ago",
+      "thumbnail": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/a6685576bb2d3c16f282c190db86ac456891e2439d39e95e.jpeg"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "What do you call a Liverpool fan?",
+      "snippet": "Liverpool fans often refer to themselves as Kopites, a reference to the fans who once stood, and now sit, on the Kop at Anfield. In 2008 a group of fans decided to form a splinter club, A.F.C. Liverpool, to play matches for fans who had been priced out of watching Premier League football.",
+      "title": "Liverpool F.C. - Biography - IMDb",
+      "link": "https://m.imdb.com/name/nm2798578/bio#:~:text=Liverpool%20fans%20often%20refer%20to,of%20watching%20Premier%20League%20football.",
+      "displayed_link": "https://m.imdb.com › name › bio",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVFdURXRXbFpTWlVOdVFsOXNWR05mTnpKMVlteE5PSGg0WDJGR2RpMUxPRGhMYm0xcFZuSmlZMjVSTUc1MU1VNUJXVGxIVG0xM1MyRlVSekV5YWs5M1dXZE9WRTlhRWhkU1dFeHJXVjlmZWt4YVIxTjNZbXRRTmpnMk5YZEJNQm9pUVVaZk5rMUJVSFJPYTBOc1VrdHJTVEZtTWxoelRtUldWRFpLYzBKNFJteFdkdyIsImZjdiI6IjMiLCJlaSI6IlJYTGtZX196TFpHU3dia1A2ODY1d0EwIiwicWMiOiJDZ2xzYVhabGNuQnZiMndRQUgxQ1lDVV8iLCJxdWVzdGlvbiI6IldoYXQgZG8geW91IGNhbGwgYSBMaXZlcnBvb2wgZmFuPyIsImxrIjoiR2lCM2FHRjBJR1J2SUhsdmRTQmpZV3hzSUdFZ2JHbDJaWEp3YjI5c0lHWmhiZyIsImJzIjoiYzFYTE1Rb0NNUkFGVUd5bnNoRUNObDlFYmJ4RGltV0ZCUXU3clljMW1rRFlDY21za0h0WTJua2dyeVJXYXY4ZWJXblZlMWFjQlZVbURCd2pHTWR3Y3ptSlJGeDR0T2F4b0EyaDlfWERrcE1VSGNxVWttVDlVbXZ1TGUxcDE1V2ZmbWpRc0hxSllZQmtuTEtvSzhxald2TmNFMmo1cDNsRWwwUHhHSUpXYTE3WC1ld04iLCJpZCI6ImZjXzQifQ==",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVFdURXRXbFpTWlVOdVFsOXNWR05mTnpKMVlteE5PSGg0WDJGR2RpMUxPRGhMYm0xcFZuSmlZMjVSTUc1MU1VNUJXVGxIVG0xM1MyRlVSekV5YWs5M1dXZE9WRTlhRWhkU1dFeHJXVjlmZWt4YVIxTjNZbXRRTmpnMk5YZEJNQm9pUVVaZk5rMUJVSFJPYTBOc1VrdHJTVEZtTWxoelRtUldWRFpLYzBKNFJteFdkdyIsImZjdiI6IjMiLCJlaSI6IlJYTGtZX196TFpHU3dia1A2ODY1d0EwIiwicWMiOiJDZ2xzYVhabGNuQnZiMndRQUgxQ1lDVV8iLCJxdWVzdGlvbiI6IldoYXQgZG8geW91IGNhbGwgYSBMaXZlcnBvb2wgZmFuPyIsImxrIjoiR2lCM2FHRjBJR1J2SUhsdmRTQmpZV3hzSUdFZ2JHbDJaWEp3YjI5c0lHWmhiZyIsImJzIjoiYzFYTE1Rb0NNUkFGVUd5bnNoRUNObDlFYmJ4RGltV0ZCUXU3clljMW1rRFlDY21za0h0WTJua2dyeVJXYXY4ZWJXblZlMWFjQlZVbURCd2pHTWR3Y3ptSlJGeDR0T2F4b0EyaDlfWERrcE1VSGNxVWttVDlVbXZ1TGUxcDE1V2ZmbWpRc0hxSllZQmtuTEtvSzhxald2TmNFMmo1cDNsRWwwUHhHSUpXYTE3WC1ld04iLCJpZCI6ImZjXzQifQ%3D%3D"
+    },
+    {
+      "question": "Why do people support Liverpool?",
+      "snippet": "Liverpool has won 18 League titles (second most in English football), seven FA Cups and a record eight League Cups. Also, the Reds have won more European titles than any other English club, with five European Cups, three UEFA Cups and three UEFA Super Cups.",
+      "title": "The 10 Best Things About Supporting Liverpool - Bleacher Report",
+      "link": "https://bleacherreport.com/articles/1254610-the-10-best-things-about-supporting-liverpool#:~:text=Liverpool%20has%20won%2018%20League,and%20three%20UEFA%20Super%20Cups.",
+      "displayed_link": "https://bleacherreport.com › articles › 1254610-the-10-be...",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVFdURXRXbFpTWlVOdVFsOXNWR05mTnpKMVlteE5PSGg0WDJGR2RpMUxPRGhMYm0xcFZuSmlZMjVSTUc1MU1VNUJXVGxIVG0xM1MyRlVSekV5YWs5M1dXZE9WRTlhRWhkU1dFeHJXVjlmZWt4YVIxTjNZbXRRTmpnMk5YZEJNQm9pUVVaZk5rMUJVSFJPYTBOc1VrdHJTVEZtTWxoelRtUldWRFpLYzBKNFJteFdkdyIsImZjdiI6IjMiLCJlaSI6IlJYTGtZX196TFpHU3dia1A2ODY1d0EwIiwicWMiOiJDZ2xzYVhabGNuQnZiMndRQUgxQ1lDVV8iLCJxdWVzdGlvbiI6IldoeSBkbyBwZW9wbGUgc3VwcG9ydCBMaXZlcnBvb2w/IiwibGsiOiJHaHgzYUhrZ2NHVnZjR3hsSUhOMWNIQnZjblFnYkdsMlpYSndiMjlzIiwiYnMiOiJjMVhMTVFvQ01SQUZVR3luc2hFQ05sOUViYnhEaW1XRkJRdTdyWWMxbWtEWUNjbXNrSHRZMm5rZ3J5UldhdjhlYlduVmUxYWNCVlVtREJ3akdNZHdjem1KUkZ4NHRPYXhvQTJoOV9YRGtwTVVIY3FVa21UOVVtdnVMZTFwMTVXZmZtalFzSHFKWVlCa25MS29LOHFqV3ZOY0UyajVwM2xFbDBQeEdJSldhMTdYLWV3TiIsImlkIjoiZmNfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVFdURXRXbFpTWlVOdVFsOXNWR05mTnpKMVlteE5PSGg0WDJGR2RpMUxPRGhMYm0xcFZuSmlZMjVSTUc1MU1VNUJXVGxIVG0xM1MyRlVSekV5YWs5M1dXZE9WRTlhRWhkU1dFeHJXVjlmZWt4YVIxTjNZbXRRTmpnMk5YZEJNQm9pUVVaZk5rMUJVSFJPYTBOc1VrdHJTVEZtTWxoelRtUldWRFpLYzBKNFJteFdkdyIsImZjdiI6IjMiLCJlaSI6IlJYTGtZX196TFpHU3dia1A2ODY1d0EwIiwicWMiOiJDZ2xzYVhabGNuQnZiMndRQUgxQ1lDVV8iLCJxdWVzdGlvbiI6IldoeSBkbyBwZW9wbGUgc3VwcG9ydCBMaXZlcnBvb2w%2FIiwibGsiOiJHaHgzYUhrZ2NHVnZjR3hsSUhOMWNIQnZjblFnYkdsMlpYSndiMjlzIiwiYnMiOiJjMVhMTVFvQ01SQUZVR3luc2hFQ05sOUViYnhEaW1XRkJRdTdyWWMxbWtEWUNjbXNrSHRZMm5rZ3J5UldhdjhlYlduVmUxYWNCVlVtREJ3akdNZHdjem1KUkZ4NHRPYXhvQTJoOV9YRGtwTVVIY3FVa21UOVVtdnVMZTFwMTVXZmZtalFzSHFKWVlCa25MS29LOHFqV3ZOY0UyajVwM2xFbDBQeEdJSldhMTdYLWV3TiIsImlkIjoiZmNfNCJ9"
+    },
+    {
+      "question": "Is Liverpool FC Catholic or Protestant?",
+      "snippet": "It has been traditionally claimed that Everton FC is 'the Catholic team' of Merseyside, whereas Liverpool FC is 'the Protestant team'. From a historical perspective, the proposition has a potential plausibility.",
+      "title": "Everton and Liverpool Football Clubs: New Gods (Chapter 9)",
+      "link": "https://www.cambridge.org/core/books/liverpool-sectarianism/everton-and-liverpool-football-clubs-new-gods/AAB9AFD8D9D97861B0A048034CA617DF#:~:text=It%20has%20been%20traditionally%20claimed,proposition%20has%20a%20potential%20plausibility.",
+      "displayed_link": "https://www.cambridge.org › books › liverpool-sectarianism",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVFdURXRXbFpTWlVOdVFsOXNWR05mTnpKMVlteE5PSGg0WDJGR2RpMUxPRGhMYm0xcFZuSmlZMjVSTUc1MU1VNUJXVGxIVG0xM1MyRlVSekV5YWs5M1dXZE9WRTlhRWhkU1dFeHJXVjlmZWt4YVIxTjNZbXRRTmpnMk5YZEJNQm9pUVVaZk5rMUJVSFJPYTBOc1VrdHJTVEZtTWxoelRtUldWRFpLYzBKNFJteFdkdyIsImZjdiI6IjMiLCJlaSI6IlJYTGtZX196TFpHU3dia1A2ODY1d0EwIiwicWMiOiJDZ2xzYVhabGNuQnZiMndRQUgxQ1lDVV8iLCJxdWVzdGlvbiI6IklzIExpdmVycG9vbCBGQyBDYXRob2xpYyBvciBQcm90ZXN0YW50PyIsImxrIjoiR2lacGN5QnNhWFpsY25CdmIyd2dabU1nWTJGMGFHOXNhV01nYjNJZ2NISnZkR1Z6ZEdGdWRBIiwiYnMiOiJjMVhMTVFvQ01SQUZVR3luc2hFQ05sOUViYnhEaW1XRkJRdTdyWWMxbWtEWUNjbXNrSHRZMm5rZ3J5UldhdjhlYlduVmUxYWNCVlVtREJ3akdNZHdjem1KUkZ4NHRPYXhvQTJoOV9YRGtwTVVIY3FVa21UOVVtdnVMZTFwMTVXZmZtalFzSHFKWVlCa25MS29LOHFqV3ZOY0UyajVwM2xFbDBQeEdJSldhMTdYLWV3TiIsImlkIjoiZmNfNCJ9",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVFdURXRXbFpTWlVOdVFsOXNWR05mTnpKMVlteE5PSGg0WDJGR2RpMUxPRGhMYm0xcFZuSmlZMjVSTUc1MU1VNUJXVGxIVG0xM1MyRlVSekV5YWs5M1dXZE9WRTlhRWhkU1dFeHJXVjlmZWt4YVIxTjNZbXRRTmpnMk5YZEJNQm9pUVVaZk5rMUJVSFJPYTBOc1VrdHJTVEZtTWxoelRtUldWRFpLYzBKNFJteFdkdyIsImZjdiI6IjMiLCJlaSI6IlJYTGtZX196TFpHU3dia1A2ODY1d0EwIiwicWMiOiJDZ2xzYVhabGNuQnZiMndRQUgxQ1lDVV8iLCJxdWVzdGlvbiI6IklzIExpdmVycG9vbCBGQyBDYXRob2xpYyBvciBQcm90ZXN0YW50PyIsImxrIjoiR2lacGN5QnNhWFpsY25CdmIyd2dabU1nWTJGMGFHOXNhV01nYjNJZ2NISnZkR1Z6ZEdGdWRBIiwiYnMiOiJjMVhMTVFvQ01SQUZVR3luc2hFQ05sOUViYnhEaW1XRkJRdTdyWWMxbWtEWUNjbXNrSHRZMm5rZ3J5UldhdjhlYlduVmUxYWNCVlVtREJ3akdNZHdjem1KUkZ4NHRPYXhvQTJoOV9YRGtwTVVIY3FVa21UOVVtdnVMZTFwMTVXZmZtalFzSHFKWVlCa25MS29LOHFqV3ZOY0UyajVwM2xFbDBQeEdJSldhMTdYLWV3TiIsImlkIjoiZmNfNCJ9"
+    },
+    {
+      "question": "Is Liverpool an Irish city?",
+      "snippet": "Liverpool's Irish connections, though, go well beyond football. Today, an estimated 75% percent of Liverpool's population have some Irish ancestry and the city is celebrated for having the strongest Irish heritage of any British city - perhaps besides Glasgow.",
+      "title": "Liverpool is a city with deep Irish roots",
+      "date": "Apr 13, 2022",
+      "link": "https://www.irishecho.com/2022/4/liverpool-has-deep-irish-roots#:~:text=Liverpool's%20Irish%20connections%2C%20though%2C%20go,British%20city%20%2D%20perhaps%20besides%20Glasgow.",
+      "displayed_link": "https://www.irishecho.com › liverpool-has-deep-irish-roots",
+      "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVFdURXRXbFpTWlVOdVFsOXNWR05mTnpKMVlteE5PSGg0WDJGR2RpMUxPRGhMYm0xcFZuSmlZMjVSTUc1MU1VNUJXVGxIVG0xM1MyRlVSekV5YWs5M1dXZE9WRTlhRWhkU1dFeHJXVjlmZWt4YVIxTjNZbXRRTmpnMk5YZEJNQm9pUVVaZk5rMUJVSFJPYTBOc1VrdHJTVEZtTWxoelRtUldWRFpLYzBKNFJteFdkdyIsImZjdiI6IjMiLCJlaSI6IlJYTGtZX196TFpHU3dia1A2ODY1d0EwIiwicWMiOiJDZ2xzYVhabGNuQnZiMndRQUgxQ1lDVV8iLCJxdWVzdGlvbiI6IklzIExpdmVycG9vbCBhbiBJcmlzaCBjaXR5PyIsImxrIjoiR2hwcGN5QnNhWFpsY25CdmIyd2dZVzRnYVhKcGMyZ2dZMmwwZVEiLCJicyI6ImMxWExNUW9DTVJBRlVHeW5zaEVDTmw5RWJieERpbVdGQlF1N3JZYzFta0RZQ2Ntc2tIdFkybmtncnlSV2F2OGViV25WZTFhY0JWVW1EQndqR01kd2N6bUpSRng0dE9heG9BMmg5X1hEa3BNVUhjcVVrbVQ5VW12dUxlMXAxNVdmZm1qUXNIcUpZWUJrbkxLb0s4cWpXdk5jRTJqNXAzbEVsMFB4R0lKV2ExN1gtZXdOIiwiaWQiOiJmY180In0=",
+      "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wVFdURXRXbFpTWlVOdVFsOXNWR05mTnpKMVlteE5PSGg0WDJGR2RpMUxPRGhMYm0xcFZuSmlZMjVSTUc1MU1VNUJXVGxIVG0xM1MyRlVSekV5YWs5M1dXZE9WRTlhRWhkU1dFeHJXVjlmZWt4YVIxTjNZbXRRTmpnMk5YZEJNQm9pUVVaZk5rMUJVSFJPYTBOc1VrdHJTVEZtTWxoelRtUldWRFpLYzBKNFJteFdkdyIsImZjdiI6IjMiLCJlaSI6IlJYTGtZX196TFpHU3dia1A2ODY1d0EwIiwicWMiOiJDZ2xzYVhabGNuQnZiMndRQUgxQ1lDVV8iLCJxdWVzdGlvbiI6IklzIExpdmVycG9vbCBhbiBJcmlzaCBjaXR5PyIsImxrIjoiR2hwcGN5QnNhWFpsY25CdmIyd2dZVzRnYVhKcGMyZ2dZMmwwZVEiLCJicyI6ImMxWExNUW9DTVJBRlVHeW5zaEVDTmw5RWJieERpbVdGQlF1N3JZYzFta0RZQ2Ntc2tIdFkybmtncnlSV2F2OGViV25WZTFhY0JWVW1EQndqR01kd2N6bUpSRng0dE9heG9BMmg5X1hEa3BNVUhjcVVrbVQ5VW12dUxlMXAxNVdmZm1qUXNIcUpZWUJrbkxLb0s4cWpXdk5jRTJqNXAzbEVsMFB4R0lKV2ExN1gtZXdOIiwiaWQiOiJmY180In0%3D"
+    }
+  ],
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Liverpool FC — Homepage",
+      "link": "https://www.liverpoolfc.com/",
+      "displayed_link": "https://www.liverpoolfc.com",
+      "snippet": "The official Liverpool FC website. The only place to visit for all your LFC news, videos, history and match information. Full stats on LFC players, ...",
+      "snippet_highlighted_words": [
+        "Liverpool"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Liverpool Football Club is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Founded in 1892, the club joined the Football League the following year and has played its home games at Anfield since its formation.",
+          "source_info_link": "https://www.liverpoolfc.com/",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/c3d12b928019f5d18d993977990e51f3906e6e9ec994478e42cab66864bfd910128d328146ee3b58b816806074094d84.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.liverpoolfc.com/&tbm=ilp&ilps=AB_Lh3oJKguZ6c8eFZRkcob9QUwSMHAzKQ",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oJKguZ6c8eFZRkcob9QUwSMHAzKQ&q=About+https%3A%2F%2Fwww.liverpoolfc.com%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:s4tYmRTi9ngJ:https://www.liverpoolfc.com/&cd=6&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 2,
+      "title": "Liverpool - Wikipedia",
+      "link": "https://en.wikipedia.org/wiki/Liverpool",
+      "displayed_link": "https://en.wikipedia.org › wiki › Liverpool",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiD44X7zs5lIvsqKZfPm_sjngAxl2D1HOOPDi5k5Aw3_xYjf_8W5kH&usqp=CAE&s",
+      "snippet": "Liverpool is a city and metropolitan borough in North West England. With a population of 486,100 in 2021, it is located within the county of Merseyside and ...",
+      "snippet_highlighted_words": [
+        "Liverpool"
+      ],
+      "rich_snippet": {
+        "bottom": {
+          "detected_extensions": {
+            "city_status": 1880,
+            "founded_june_years_ago": 3
+          },
+          "extensions": [
+            "City Status: 1880",
+            "Historic county: Lancashire",
+            "Metropolitan and ceremonial county: Merseysi...",
+            "Sovereign state: United Kingdom",
+            "League: Premier League",
+            "Nickname(s): The Reds",
+            "Founded: 3 June 1892; 130 years ago",
+            "Chairman: Tom Werner"
+          ]
+        }
+      },
+      "about_this_result": {
+        "source": {
+          "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and using a wiki-based editing system. Wikipedia is the largest and most-read reference work in history.",
+          "source_info_link": "https://en.wikipedia.org/wiki/Liverpool",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/c3d12b928019f5d18d993977990e51f3da03ae44855c4f446c33f8e286e744314252c777107badae778a3c58ad2bd404.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Liverpool&tbm=ilp&ilps=AB_Lh3o-1B6glc9k-dIzTSTsh7e2xlaOUw",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3o-1B6glc9k-dIzTSTsh7e2xlaOUw&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLiverpool",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:2H09C_zxx5oJ:https://en.wikipedia.org/wiki/Liverpool&cd=22&hl=en&ct=clnk&gl=us",
+      "related_pages_link": "https://www.google.com/search?gl=us&q=related:https://en.wikipedia.org/wiki/Liverpool+liverpool",
+      "related_results": [
+        {
+          "position": 1,
+          "title": "Liverpool F.C. - Wikipedia",
+          "link": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
+          "displayed_link": "https://en.wikipedia.org › wiki › Liverpool_F.C.",
+          "snippet": "Liverpool Football Club is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English ...",
+          "snippet_highlighted_words": [
+            "Liverpool",
+            "Liverpool"
+          ],
+          "rich_snippet": {
+            "bottom": {
+              "extensions": [
+                "League: Premier League",
+                "Nickname(s): The Reds",
+                "Founded: 3 June 1892; 130 years ago",
+                "Chairman: Tom Werner"
+              ],
+              "detected_extensions": {
+                "founded_june_years_ago": 3
+              }
+            }
+          },
+          "about_this_result": {
+            "source": {
+              "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and using a wiki-based editing system. Wikipedia is the largest and most-read reference work in history.",
+              "source_info_link": "https://en.wikipedia.org/wiki/Liverpool_F.C.",
+              "security": "secure",
+              "icon": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/c3d12b928019f5d18d993977990e51f35a8bd6379d339e9acd61bb5bf42769a6bd07d6d76a329951ad8e9b4ecf5d249e40543184cec24466d3cc1c54de4c153066e2fbf8226472d4.png"
+            }
+          },
+          "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Liverpool_F.C.&tbm=ilp&ilps=AB_Lh3pm0HInhlCXFfD-suNu2HZEUw7XVA",
+          "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3pm0HInhlCXFfD-suNu2HZEUw7XVA&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FLiverpool_F.C.",
+          "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:-ACJmZ9iiBEJ:https://en.wikipedia.org/wiki/Liverpool_F.C.&cd=23&hl=en&ct=clnk&gl=us",
+          "related_pages_link": "https://www.google.com/search?gl=us&q=related:https://en.wikipedia.org/wiki/Liverpool_F.C.+liverpool"
+        }
+      ]
+    },
+    {
+      "position": 3,
+      "title": "Liverpool - News, Schedule, Scores, Roster, and Stats",
+      "link": "https://theathletic.com/football/team/liverpool/",
+      "displayed_link": "https://theathletic.com › football › team › liverpool",
+      "snippet": "Breaking Liverpool news and in-depth analysis from the best newsroom in sports. Follow your favorite clubs. Get the latest injury updates, player news and ...",
+      "snippet_highlighted_words": [
+        "Liverpool"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "theathletic.com was first indexed by Google more than 10 years ago",
+          "source_info_link": "https://theathletic.com/football/team/liverpool/",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/c3d12b928019f5d18d993977990e51f3c19b9ef60798e232e1337f3b8af109780d30a0b46ee10404e6e6e87b7fa8f11e.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://theathletic.com/football/team/liverpool/&tbm=ilp&ilps=AB_Lh3o1kbWo_-V3vr9CDymde8gi3vDJbg",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3o1kbWo_-V3vr9CDymde8gi3vDJbg&q=About+https%3A%2F%2Ftheathletic.com%2Ffootball%2Fteam%2Fliverpool%2F",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:sMwyMR2Uqe8J:https://theathletic.com/football/team/liverpool/&cd=37&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 4,
+      "title": "Liverpool News, Scores, Stats, Rumors & More - ESPN",
+      "link": "https://www.espn.com/soccer/team/_/id/364",
+      "displayed_link": "https://www.espn.com › soccer › team",
+      "snippet": "Visit ESPN to view the latest Liverpool news, scores, stats, standings, rumors, and more.",
+      "snippet_highlighted_words": [
+        "Liverpool"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "ESPN is an American international basic cable sports channel owned by ESPN Inc., owned jointly by The Walt Disney Company and Hearst Communications. The company was founded in 1979 by Bill Rasmussen along with his son Scott Rasmussen and Ed Eagan.",
+          "source_info_link": "https://www.espn.com/soccer/team/_/id/364",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/c3d12b928019f5d18d993977990e51f3fc874bf7ae6fa11391b226ca01312802da69aa7c8f55d654c27e24e129a9c969.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.espn.com/soccer/team/_/id/364&tbm=ilp&ilps=AB_Lh3ot3VthfhvhJdBoSZmJb3NhCniP0w",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3ot3VthfhvhJdBoSZmJb3NhCniP0w&q=About+https%3A%2F%2Fwww.espn.com%2Fsoccer%2Fteam%2F_%2Fid%2F364",
+      "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:LYMA6FLtVr0J:https://www.espn.com/soccer/team/_/id/364&cd=38&hl=en&ct=clnk&gl=us"
+    },
+    {
+      "position": 5,
+      "title": "Liverpool.com - Latest Liverpool FC news, opinion and more",
+      "link": "https://www.liverpool.com/",
+      "displayed_link": "https://www.liverpool.com",
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPEbdHMlGV4ePzp0UeAnmtnaxGToBSOUIuA4fKPzKz-Qb0mKBQy-iO&usqp=CAE&s",
+      "snippet": "Get the latest Liverpool FC news and updates with Liverpool.com. Featuring breaking news, live match coverage, transfer updates and more for LFC fans.",
+      "snippet_highlighted_words": [
+        "Liverpool",
+        "Liverpool"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "liverpool.com was first indexed by Google more than 10 years ago",
+          "source_info_link": "https://www.liverpool.com/",
+          "security": "secure",
+          "icon": "https://serpapi.com/searches/63e47244d3aba21f434ca98b/images/c3d12b928019f5d18d993977990e51f386cd46e237fa145d35fa2667637bb69a6fceb6fb4d56778baeceb22516898a3e.png"
+        }
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.liverpool.com/&tbm=ilp&ilps=AB_Lh3rvzmDkjAGqD8LRs2Jxg0yQNhR33w",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rvzmDkjAGqD8LRs2Jxg0yQNhR33w&q=About+https%3A%2F%2Fwww.liverpool.com%2F"
+    }
+  ],
+  "related_searches": [
+    {
+      "query": "liverpool, england",
+      "link": "https://www.google.com/search?gl=us&q=Liverpool+England&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ1QJ6BAhOEAE"
+    },
+    {
+      "query": "liverpool city",
+      "link": "https://www.google.com/search?gl=us&q=Liverpool+City&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ1QJ6BAhNEAE"
+    },
+    {
+      "query": "liverpool mexico",
+      "link": "https://www.google.com/search?gl=us&q=Liverpool+Mexico&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ1QJ6BAhMEAE"
+    },
+    {
+      "query": "liverpool clothing",
+      "link": "https://www.google.com/search?gl=us&q=Liverpool+clothing&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ1QJ6BAhLEAE"
+    },
+    {
+      "query": "liverpool fc",
+      "link": "https://www.google.com/search?gl=us&q=Liverpool+fc&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ1QJ6BAhKEAE"
+    },
+    {
+      "query": "liverpool transfer news",
+      "link": "https://www.google.com/search?gl=us&q=Liverpool+transfer+news&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ1QJ6BAhJEAE"
+    },
+    {
+      "query": "liverpool jeans",
+      "link": "https://www.google.com/search?gl=us&q=Liverpool+Jeans&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ1QJ6BAhIEAE"
+    },
+    {
+      "query": "liverpool players",
+      "link": "https://www.google.com/search?gl=us&q=Liverpool+players&sa=X&ved=2ahUKEwi_qqOFyYf9AhURSTABHWtnDtgQ1QJ6BAhPEAE"
+    }
+  ],
+  "pagination": {
+    "current": 1,
+    "next": "https://www.google.com/search?q=liverpool&oq=liverpool&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+    "other_pages": {
+      "2": "https://www.google.com/search?q=liverpool&oq=liverpool&gl=us&start=10&sourceid=chrome&ie=UTF-8",
+      "3": "https://www.google.com/search?q=liverpool&oq=liverpool&gl=us&start=20&sourceid=chrome&ie=UTF-8",
+      "4": "https://www.google.com/search?q=liverpool&oq=liverpool&gl=us&start=30&sourceid=chrome&ie=UTF-8",
+      "5": "https://www.google.com/search?q=liverpool&oq=liverpool&gl=us&start=40&sourceid=chrome&ie=UTF-8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool&start=10",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool&start=10",
+    "other_pages": {
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&location=Austin%2C+Texas%2C+United+States&q=liverpool&start=40"
+    }
+  }
+}

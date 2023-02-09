@@ -1,0 +1,667 @@
+{
+    "search_metadata": {
+        "id": "63e474e066d81f9cfb071c2a",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/ebbc4e5781403401/63e474e066d81f9cfb071c2a.json",
+        "created_at": "2023-02-09 04:21:52 UTC",
+        "processed_at": "2023-02-09 04:21:53 UTC",
+        "google_url": "https://www.google.com/search?q=Angels&oq=Angels&uule=w+CAIQICIkQWxidXF1ZXJxdWUsTmV3IE1leGljbyxVbml0ZWQgU3RhdGVz&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/ebbc4e5781403401/63e474e066d81f9cfb071c2a.html",
+        "total_time_taken": 6.13
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Angels",
+        "location_requested": "Albuquerque, New Mexico",
+        "location_used": "Albuquerque,New Mexico,United States",
+        "google_domain": "google.com",
+        "device": "desktop"
+    },
+    "search_information": {
+        "organic_results_state": "Results for exact spelling",
+        "query_displayed": "Angels",
+        "total_results": 2990000000,
+        "time_taken_displayed": 0.61,
+        "menu_items": [
+            {
+                "position": 1,
+                "title": "All"
+            },
+            {
+                "position": 2,
+                "title": "News",
+                "link": "https://www.google.com/search?q=Angels&source=lnms&tbm=nws&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ_AUoAXoECAIQAw",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Angels&tbm=nws"
+            },
+            {
+                "position": 3,
+                "title": "Images",
+                "link": "https://www.google.com/search?q=Angels&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ_AUoAnoECAIQBA",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Angels&tbm=isch"
+            },
+            {
+                "position": 4,
+                "title": "Videos",
+                "link": "https://www.google.com/search?q=Angels&source=lnms&tbm=vid&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ_AUoA3oECAIQBQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Angels&tbm=vid"
+            },
+            {
+                "position": 5,
+                "title": "Books",
+                "link": "https://www.google.com/search?q=Angels&source=lnms&tbm=bks&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ_AUoBHoECAIQBg"
+            }
+        ]
+    },
+    "knowledge_graph": {
+        "title": "Los Angeles Angels",
+        "type": "Baseball team",
+        "kgmid": "/m/04wmvz",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/04wmvz&hl=en-US&q=Los+Angeles+Angels&kgs=b03215a78fdd1e95&shndl=0&source=sh/x/kp/1",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F04wmvz&location=Albuquerque%2C+New+Mexico&q=Los+Angeles+Angels",
+        "image": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/94d9f81350ffea9edde806a5945ca6a551da1003cedad0eb.png",
+        "description": "The Los Angeles Angels are an American professional baseball team based in the Los Angeles metropolitan area. The Angels compete in Major League Baseball as a member club of the American League West division. Since 1966, the team has played its home games at Angel Stadium in Anaheim, California.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Los_Angeles_Angels"
+        },
+        "general_manager": "Perry Minasian",
+        "general_manager_links": [
+            {
+                "text": "General manager",
+                "link": "https://www.google.com/search?q=los+angeles+angels+general+manager&stick=H4sIAAAAAAAAAOPgE-LUz9U3MCnPLavS0s4ot9JPzs_JSU0uyczP0y8uyC8qKY4vSU3MLbZKT81LLUrMUchNzEtMTy1axKqUk1-skJiXnpqTCqWLFdAUAQB4KxDOXwAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ6BMoAHoECGUQAg"
+            },
+            {
+                "text": "Perry Minasian",
+                "link": "https://www.google.com/search?q=Perry+Minasian&si=AEcPFx7eHRJU0tWbjC5cc2C2rVygfPuoetC2JDc0IDqLp89f-LTKv-GhCLQwEDXAVL7VXRMBzd6p-UomzwNc73iTwiYeVB5yONpEeqqWSb1XUuc-FnlnAD58RUsvzmM2b3pXVSHZNRRHj6NFN5ZUwRwv6DONoOt0tcmPqQXFHUn6rA1drhnCZGDdUZGXB9lq6gTKEwsB0dlAf5hSw06LfbPfbk9bkHCisw%3D%3D&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQmxMoAXoECGUQAw"
+            }
+        ],
+        "division": "American League West",
+        "division_links": [
+            {
+                "text": "Division",
+                "link": "https://www.google.com/search?q=los+angeles+angels+division&stick=H4sIAAAAAAAAAOPgE-LUz9U3MCnPLavSUs5OttJPSixOTUrMyYEz4ktSE3OtUjLLMosz8_MWsUrn5BcrJOalp-akQuliBZgsAMm42jlQAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ6BMoAHoECG8QAg"
+            },
+            {
+                "text": "American League West",
+                "link": "https://www.google.com/search?q=American+League+West&si=AEcPFx5y3cpWB8t3QIlw940Bbgd-HLN-aNYSTraERzz0WyAsdEC6xTIbeY1CWREGbEZuNlKTMe7p5-MqE5rn9NYim_hBnxNNnRcPMBZnqCsbAbKIWIb--K9n3vcKBpil-ipLCnFZICj_g4hPJRHPpTiKgwhn0RlcU3DIRRZP_O3KNN9vDVROdOV3mifVmjUOW2B2wTww784xZRVzpf05PIbg2KRU4gbsHQ%3D%3D&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQmxMoAXoECG8QAw"
+            }
+        ],
+        "location": "Anaheim, CA",
+        "location_links": [
+            {
+                "text": "Location",
+                "link": "https://www.google.com/search?q=los+angeles+angels+location&stick=H4sIAAAAAAAAAOPgE-LUz9U3MCnPLavSks9OttIvLsgvKimGUvElqYm5Vjn5yYklmfl5i1ilc_KLFRLz0lNzUqF0sQJMFgDp7YHGTAAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ6BMoAHoECHAQAg"
+            },
+            {
+                "text": "Anaheim, CA",
+                "link": "https://www.google.com/search?q=Anaheim,+California&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN1tQ6sRxSy4cmJL5xzRZDSc9nHqb7exwiPvi6Vs8mKrs6iFPEcTcsR-Vy8p-s99HRK9P9gF_Ho-xBWguz0a0vdrB_RcUdhgdpxe5HbIuMMbuf3ycpc81OKit1LXavr7nGY3TZ4GBpn7b1Gwn2tUc_DO0GnOwWpz0Hq9cjoHppk8RwI_Hag%3D%3D&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQmxMoAXoECHAQAw"
+            }
+        ],
+        "arena_stadium": "Angel Stadium of Anaheim",
+        "arena_stadium_links": [
+            {
+                "text": "Arena/Stadium",
+                "link": "https://www.google.com/search?q=los+angeles+angels+arena/stadium&stick=H4sIAAAAAAAAAOPgE-LUz9U3MCnPLavSUslOttIvLsgvKimGUvElqYm5VolFqXmJ-sUliSmZpbmLWBVy8osVEvPSU3NSoTSQQlYCAMKxup5WAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ6BMoAHoECF8QAg"
+            },
+            {
+                "text": "Angel Stadium of Anaheim",
+                "link": "https://www.google.com/search?q=Angel+Stadium&si=AEcPFx5y3cpWB8t3QIlw940Bbgd-HLN-aNYSTraERzz0WyAsdD4LBkSaphTR-P2j8oMPOOEr6hLzT6uLEdqvSnaQkieL77xEDUGsiAKrkqAzIoVjc1dOoiST4pbJWUKY8uLV2G5HFvMaMkG4gfP6eUxB3TWaNXb2Xbdvn7svq2ePUVrcVvYoJEvVVIQ5uaMWL5x60Y6sDGSa&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQmxMoAXoECF8QAw"
+            }
+        ],
+        "world_series_championships": "2002",
+        "world_series_championships_links": [
+            {
+                "text": "World Series championships",
+                "link": "https://www.google.com/search?q=los+angeles+angels+world+series+championships&stick=H4sIAAAAAAAAAOPgE-LUz9U3MCnPLavSMsxOttJPSixOTUrMyYEz4ktSE3OtyvOLclIUilOLMlOLFZIzEnMLMvPzihex6ubkFysk5qWn5qRC6WIF7GozMguKAaPzT9xwAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ6BMoAHoECGEQAg"
+            }
+        ],
+        "manager": "Phil Nevin",
+        "manager_links": [
+            {
+                "text": "Manager",
+                "link": "https://www.google.com/search?q=los+angeles+angels+manager&stick=H4sIAAAAAAAAAOPgE-LUz9U3MCnPLavSUspOttJPSixOTUrMyYEz4ktSE3OtchPzEtNTixaxSuXkFysk5qWn5qRC6WIFqCQAwjmqJ04AAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ6BMoAHoECGIQAg"
+            },
+            {
+                "text": "Phil Nevin",
+                "link": "https://www.google.com/search?q=Phil+Nevin&si=AEcPFx5y3cpWB8t3QIlw940Bbgd-HLN-aNYSTraERzz0WyAsdJ9HrwPQ4Ita3C-8cGtMLoThgDlAzCs_P2xo0BCRVGPojYiM64t4I-oLJc2rqYMoe6Wy2Pmfuvtul24zoU6xogqwYVxGsTsVARfX185sFo340Wj52eQvcXMVQ4P3I55BUImspOVc63acH70_Kr-8DXIPEfy-&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQmxMoAXoECGIQAw"
+            }
+        ],
+        "buttons": [
+            {
+                "text": "Coaching staff",
+                "title": "Angels Announce Coaching Hires - MLB Trade Rumors",
+                "link": "https://www.mlbtraderumors.com/2022/11/angels-announce-coaching-hires.html#:~:text=The%20Angels%20announced%20three%20new,Hezel%20as%20assistant%20pitching%20coach.",
+                "displayed_link": "https://www.mlbtraderumors.com \u203a 2022/11 \u203a angels-ann...",
+                "date": "Nov 7, 2022",
+                "snippet": "The Angels announced three new coaching hires for 2023, with Marcus Thames joining the team as the new hitting coach, Phil Plantier as assistant hitting coach, and Bill Hezel as assistant pitching coach.",
+                "snippet_highlighted_words": [
+                    "Marcus Thames joining the team as the new hitting coach, Phil Plantier as assistant hitting coach, and Bill Hezel as assistant pitching coach"
+                ],
+                "search_link": "https://www.google.com/search?q=california+angels+coaching+staff&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ3rMBKAJ6BAhqEAM",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=california+angels+coaching+staff"
+            },
+            {
+                "text": "Retired numbers",
+                "title": "Los Angeles Angels - Wikipedia",
+                "link": "https://en.m.wikipedia.org/wiki/Los_Angeles_Angels",
+                "displayed_link": "https://en.m.wikipedia.org \u203a wiki \u203a Los_Angeles_Angels",
+                "search_link": "https://www.google.com/search?q=los+angeles+angels+retired+numbers&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ3rMBKAJ6BAhsEAM",
+                "serpapi_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=los+angeles+angels+retired+numbers"
+            }
+        ],
+        "players": [
+            {
+                "name": "Shohei Ohtani",
+                "extensions": "Pitcher",
+                "link": "https://www.google.com/search?q=Shohei+Ohtani&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnPLatS4gIx85KMzI3TtYSCC_KLSopDUhNzQ_KD8otLUosWsfIGZ-RnpGYq-GeUJOZlAgBjZivOPQAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQri56BAhpEAQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Shohei+Ohtani&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnPLatS4gIx85KMzI3TtYSCC_KLSopDUhNzQ_KD8otLUosWsfIGZ-RnpGYq-GeUJOZlAgBjZivOPQAAAA"
+            },
+            {
+                "name": "Mike Trout",
+                "extensions": "Center fielder",
+                "link": "https://www.google.com/search?q=Mike+Trout&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnPLatS4gIxk3NTspMLtISCC_KLSopDUhNzQ_KD8otLUosWsXL5ZmanKoQU5ZeWAADc0mNWOgAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQri56BAhpEAY",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Mike+Trout&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnPLatS4gIxk3NTspMLtISCC_KLSopDUhNzQ_KD8otLUosWsXL5ZmanKoQU5ZeWAADc0mNWOgAAAA"
+            },
+            {
+                "name": "David Fletcher",
+                "extensions": "Third baseman",
+                "link": "https://www.google.com/search?q=David+Fletcher&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnPLatS4tVP1zc0TDOzjM-rTErXEgouyC8qKQ5JTcwNyQ_KLy5JLVrEyueSWJaZouCWk1qSnJFaBACDisCOQQAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQri56BAhpEAg",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=David+Fletcher&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnPLatS4tVP1zc0TDOzjM-rTErXEgouyC8qKQ5JTcwNyQ_KLy5JLVrEyueSWJaZouCWk1qSnJFaBACDisCOQQAAAA"
+            },
+            {
+                "name": "Anthony Rendon",
+                "extensions": "Third baseman",
+                "link": "https://www.google.com/search?q=Anthony+Rendon&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnPLatS4gIxkzNMspKKtYSCC_KLSopDUhNzQ_KD8otLUosWsfI55pVk5OdVKgSl5qXk5wEAn786yT4AAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQri56BAhpEAo",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Anthony+Rendon&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnPLatS4gIxkzNMspKKtYSCC_KLSopDUhNzQ_KD8otLUosWsfI55pVk5OdVKgSl5qXk5wEAn786yT4AAAA"
+            }
+        ],
+        "players_link": "https://www.google.com/search?q=los+angeles+angels+players&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnPLatSQjC1ZLOTrfSLC_KLSoqhVHxJamKuVVF-cUlq0SJWqZz8YoXEvPTUnFQoXaxQkJNYmVpUvIOVEQDYPL_7VwAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQMSgAegQIaRAB",
+        "players_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCnPLatSQjC1ZLOTrfSLC_KLSoqhVHxJamKuVVF-cUlq0SJWqZz8YoXEvPTUnFQoXaxQkJNYmVpUvIOVEQDYPL_7VwAAAA",
+        "people_also_search_for": [
+            {
+                "name": "Los Angeles Dodgers",
+                "link": "https://www.google.com/search?q=Dodgers&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN7gMQU2PtFY90nSdTCqjX9Y78xsnHE9qjo3QCrf8X12owr7H0fCIsKDObic7P1bDXDH26hFzsqpBwRz6Pp21e-X8wG0zT3vjJH8CPJ93UctLk_uyriGEx53SomWRFFsF6IcYPdPgj1YqzF-wynhjycgbI9SZGD_-1vm0sF2OcytoU0_FwNtSi5WPqe69zWq1WtAFbjV2EA-upYZGLlX0V_svCPA4I9HPxMxGK-wJnZdDpstL2S0BTxc9u-RhFv3YOFQcjaA%3D&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQxA16BAhnEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Dodgers&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN7gMQU2PtFY90nSdTCqjX9Y78xsnHE9qjo3QCrf8X12owr7H0fCIsKDObic7P1bDXDH26hFzsqpBwRz6Pp21e-X8wG0zT3vjJH8CPJ93UctLk_uyriGEx53SomWRFFsF6IcYPdPgj1YqzF-wynhjycgbI9SZGD_-1vm0sF2OcytoU0_FwNtSi5WPqe69zWq1WtAFbjV2EA-upYZGLlX0V_svCPA4I9HPxMxGK-wJnZdDpstL2S0BTxc9u-RhFv3YOFQcjaA%3D",
+                "image": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/94d9f81350ffea9edde806a5945ca6a59daf8ca8581e36ffb9ba7fe929ab068c9af52326d4cbb107ff693c23544af218.png"
+            },
+            {
+                "name": "Houston Astros",
+                "link": "https://www.google.com/search?q=Houston+Astros&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN3b9I8abaSJ31Iq-_4FE3tyqnoX7xTQu5dHVfkRl9JlXkTZgOelIauDrAkj82QRIq_04ZkXaHlkkgYS0K7i8LQNiCF_hbd6VRa7utPN56BJ5MpeLy8XfZ8JDsukt4RMF9REwe7uwOaNjz89zpVYTYXg8WuygfypUt13i-cuNE3DcW_JfJ4j_o0hp1kfD4_Sv0gs6lAARoK0kYS5r-4EcNHOOr1BHN0n9cbwbdE1q-MMlNUKnyLPllcwSLoRf0miEQgjuq-o%3D&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQxA16BAhnEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Houston+Astros&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN3b9I8abaSJ31Iq-_4FE3tyqnoX7xTQu5dHVfkRl9JlXkTZgOelIauDrAkj82QRIq_04ZkXaHlkkgYS0K7i8LQNiCF_hbd6VRa7utPN56BJ5MpeLy8XfZ8JDsukt4RMF9REwe7uwOaNjz89zpVYTYXg8WuygfypUt13i-cuNE3DcW_JfJ4j_o0hp1kfD4_Sv0gs6lAARoK0kYS5r-4EcNHOOr1BHN0n9cbwbdE1q-MMlNUKnyLPllcwSLoRf0miEQgjuq-o%3D",
+                "image": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/94d9f81350ffea9edde806a5945ca6a59daf8ca8581e36ffb9ba7fe929ab068c7b49b2dc85c22580d6e404b9b36b18a7.png"
+            },
+            {
+                "name": "Chicago Cubs",
+                "link": "https://www.google.com/search?q=Chicago+Cubs&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN667VI9vzz_2FQrunj03da5qzJ5BiP8-3_dv_aAt_kjOgOAEyzy9CG5s4RVAyn6aUfSfE9JbF5HTI2_9E9dON0g3JMW9irkGTScoa_fARq-9RCQiHbGa1fHI4hrYMQys4-rS6FM_bTsbG8y_FDENWFdNPPe__b9mMet2Y1-qJw-nh3m4z11ThzqWALUC-bPD_eYxEYcTrlqEuN4Q-S89vzeHdi-4SybMu2KisE2q9ppUYet8hb8ppnwq8FSgeUBOgGeMHWc%3D&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQxA16BAhnEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Chicago+Cubs&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN667VI9vzz_2FQrunj03da5qzJ5BiP8-3_dv_aAt_kjOgOAEyzy9CG5s4RVAyn6aUfSfE9JbF5HTI2_9E9dON0g3JMW9irkGTScoa_fARq-9RCQiHbGa1fHI4hrYMQys4-rS6FM_bTsbG8y_FDENWFdNPPe__b9mMet2Y1-qJw-nh3m4z11ThzqWALUC-bPD_eYxEYcTrlqEuN4Q-S89vzeHdi-4SybMu2KisE2q9ppUYet8hb8ppnwq8FSgeUBOgGeMHWc%3D",
+                "image": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/94d9f81350ffea9edde806a5945ca6a59daf8ca8581e36ffb9ba7fe929ab068cd28771e7f23b3410e908e967a968286c.png"
+            },
+            {
+                "name": "Texas Rangers",
+                "link": "https://www.google.com/search?q=Texas+Rangers&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN-ktoJMPBPFbdw_-lGmxIazjV8jz1EJ7hMk-bMwaVV2C5MV2E-pkllZNrYYwgtmG5WXf2LWy6t0yofcxW72w0ezskJKe2YUU2ufqVmCwD391NeYEc0XZpXcbmLK-0tZ1NnfLCYprSmA_5HfajzEa_SyQ4_5fTdWkZCiq1eVqYz1y9JNbejGy-di23Hh2CzxLNjXHwWuJUxwg1lHHABvSsDfWeArzcIpyI3FnVU95NGMwez8ls1ZtBXJC5iXvbzTL1oRryto%3D&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQxA16BAhnEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Texas+Rangers&si=AEcPFx6l3RvH8SFlhHZyn7jIc6m2bU9vmoFvFAMQv2WWSYjXN-ktoJMPBPFbdw_-lGmxIazjV8jz1EJ7hMk-bMwaVV2C5MV2E-pkllZNrYYwgtmG5WXf2LWy6t0yofcxW72w0ezskJKe2YUU2ufqVmCwD391NeYEc0XZpXcbmLK-0tZ1NnfLCYprSmA_5HfajzEa_SyQ4_5fTdWkZCiq1eVqYz1y9JNbejGy-di23Hh2CzxLNjXHwWuJUxwg1lHHABvSsDfWeArzcIpyI3FnVU95NGMwez8ls1ZtBXJC5iXvbzTL1oRryto%3D",
+                "image": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/94d9f81350ffea9edde806a5945ca6a59daf8ca8581e36ffb9ba7fe929ab068ceb244849640f9cc975117923ae2a380b.jpeg"
+            }
+        ],
+        "people_also_search_for_link": "https://www.google.com/search?q=Los+Angeles+Angels&stick=H4sIAAAAAAAAAONgFuLUz9U3MCnPLatSQjC1BIMzU1LLEyuL_VIrSoJLUguKF7EK-eQXKzjmpafmpELp4h2sjAAu6v2-QwAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQMSgAegQIZxAB",
+        "people_also_search_for_stick": "H4sIAAAAAAAAAONgFuLUz9U3MCnPLatSQjC1BIMzU1LLEyuL_VIrSoJLUguKF7EK-eQXKzjmpafmpELp4h2sjAAu6v2-QwAAAA"
+    },
+    "twitter_results": {
+        "title": "Los Angeles Angels (@Angels) \u00b7 Twitter",
+        "link": "https://twitter.com/Angels?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+        "displayed_link": "https://twitter.com/Angels",
+        "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1-dYJ6lnFilcshrDVka57DjlWsGPQZIDTZxqjtt0_Z-I4lrGY4LL7crdguPfLY1ovvTQ6SSg&s=10",
+        "tweets": [
+            {
+                "link": "https://twitter.com/Angels/status/1623145973890560000?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                "snippet": "During the second 1962 All-Star Game, Leon Wagner went 3-for-4 with one home run and two RBI to lead the A.L. to a 9-4 victory at Wrigley Field in Chicago. He was the first ever Angels player to win All-Star Game MVP honors. #BlackHistoryMonth",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1-dYJ6lnFilcshrDVka57DjlWsGPQZIDTZxqjtt0_Z-I4lrGY4LL7crdguPfLY1ovvTQ6SSg&s=10",
+                "published_date": "1 day ago"
+            },
+            {
+                "link": "https://twitter.com/Angels/status/1621928233188065281?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                "snippet": "\u201cYou approach each day with the goal in mind, laying the foundation for what\u2019s to come.\u201d We\u2019re proud to announce @FBMSupply as our official jersey patch partner!",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3c8WZeE8xZjrx2DmMInx7CTvEVTRxMqQc_XDoEu01WgC7rLLmbTlsDiMVL_d8tzQxYdaCOok&s=10",
+                "published_date": "4 days ago"
+            },
+            {
+                "link": "https://twitter.com/Angels/status/1621667392240877569?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                "snippet": "Lou Johnson became the first African American player in Angels history when he played left field in the first game in franchise history on April 11, 1961 at Baltimore. #BlackHistoryMonth",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1ckBf_7cTtgoDCxMeGFdF5yhGyJm43bGw6Q1h3L4SOjVMNTl3A-NuCsptlXuGb5Kp4w5TRtY&s=10",
+                "published_date": "5 days ago"
+            },
+            {
+                "link": "https://twitter.com/Angels/status/1621269942455922688?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                "snippet": "Snowhei Ohtani \u2744\ufe0f This sculpture will be on display at the upcoming 73rd Sapporo Snow Festival in Japan!",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV2TbXIz7zLixsJoC764iX1SlXfilr5nyXtGPk5vF_UMyAPNIqI4ApiVMbjMXwF5oDeAwasvY&s=10",
+                "published_date": "6 days ago"
+            },
+            {
+                "link": "https://twitter.com/Angels/status/1620893569723793408?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Etweet",
+                "snippet": "Happy National Girls & Women in Sports Day! Today and everyday, we're honored to share the field with the talented women working in sports! Check out the thread below to learn more about some of our teammates here at Angels Baseball. \u2b07\ufe0f",
+                "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNnmb4mmjaLXOmd_gtywkJB7XRXewTYA-GZUHYO1WBBfsju0Jgp9m9kBxepkSzPkDJAYzVGj8&s=10",
+                "published_date": "Feb 1, 2023"
+            }
+        ]
+    },
+    "inline_videos": [
+        {
+            "position": 1,
+            "title": "Robbie Williams - Angels",
+            "link": "https://www.youtube.com/watch?v=luwAMFcc2f8",
+            "thumbnail": "https://i.ytimg.com/vi/luwAMFcc2f8/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3k_NFrYqC91KUOB0HcB8xPrO17ROg",
+            "channel": "robbiewilliamsvevo",
+            "duration": "3:56",
+            "platform": "YouTube",
+            "date": "Jan 7, 2011"
+        },
+        {
+            "position": 2,
+            "title": "LP - Angels (Official Music Video)",
+            "link": "https://www.google.com#fpstate=ive&vld=cid:8568cc04,vid:MBBJBhaeCX0",
+            "thumbnail": "https://i.ytimg.com/vi/MBBJBhaeCX0/mqdefault.jpg?sqp=-oaymwEECHwQRg&rs=AMzJL3kvmsNAYNTiiVm32LtFoyvAT567xQ",
+            "channel": "LP",
+            "duration": "3:48",
+            "platform": "YouTube",
+            "date": "Oct 8, 2021"
+        },
+        {
+            "position": 3,
+            "title": "Angels not restricting Ohtani | 02/06/2023",
+            "link": "https://www.mlb.com/video/angels-not-restricting-ohtani",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj1MjJoVqE6XLJiXSJC2xDn6Ize6M0HrVBQcZqjOVFf7M&s",
+            "duration": "9:20",
+            "platform": "MLB.com",
+            "date": "2 days ago"
+        }
+    ],
+    "inline_people_also_search_for": [
+        {
+            "title": "MLB teams",
+            "items": [
+                {
+                    "name": "Los Angeles Dodgers",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVMB49iHzvwwbbzF1EIaZIob9VCLuy0WAZ8JNL&s=0",
+                    "link": "https://www.google.com/search?q=Dodgers&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMnNyjHizM1JUihJTcwtjmJzzEtPzSk-xQiXPcXICWImF5aYGEKFzQ1NzGHMHJMqKNM41zAPyjQrL0iGK7CogDJN083NYEzDMpg204qyrF-MnL4-ThAnLGJld8lPSU8tKr7FJsnQJCAlcXzalux9N3la9MM3nNm6tH91yly-gwDesFtXwAAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQs9oBKAB6BAgnEAI",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Dodgers&stick=H4sIAAAAAAAAAOOQUeLQz9U3MMnNyjHizM1JUihJTcwtjmJzzEtPzSk-xQiXPcXICWImF5aYGEKFzQ1NzGHMHJMqKNM41zAPyjQrL0iGK7CogDJN083NYEzDMpg204qyrF-MnL4-ThAnLGJld8lPSU8tKr7FJsnQJCAlcXzalux9N3la9MM3nNm6tH91yly-gwDesFtXwAAAAA"
+                },
+                {
+                    "name": "New York Yankees",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGERSi1HYaUuMAdg_YUiekfzv2vb4gc_AWLGrb&s=0",
+                    "link": "https://www.google.com/search?q=Yankees&stick=H4sIAAAAAAAAAOOQUeLUz9U3SC4sMTE04szNSVIoSU3MLY5ic8xLT80pPsXIAZI2yc3KOcWIUAkVNjc0MYcxc0yqoEzjXMM8KNOsvCAZrsCiAso0TTc3gzENy2DaTCvKsn4xcvr6OEGcsIiVPTIxLzs1tfgWmyRDk4CUxPFpW7L33eRp0Q_fcGbr0v7VKXP5DgIA3HBt1sEAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQs9oBKAF6BAgnEAM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Yankees&stick=H4sIAAAAAAAAAOOQUeLUz9U3SC4sMTE04szNSVIoSU3MLY5ic8xLT80pPsXIAZI2yc3KOcWIUAkVNjc0MYcxc0yqoEzjXMM8KNOsvCAZrsCiAso0TTc3gzENy2DaTCvKsn4xcvr6OEGcsIiVPTIxLzs1tfgWmyRDk4CUxPFpW7L33eRp0Q_fcGbr0v7VKXP5DgIA3HBt1sEAAAA"
+                },
+                {
+                    "name": "San Diego Padres",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGDUjcNo2JQ-ZNM_NKm71pyO1s88LE7yLNh5JC&s=0",
+                    "link": "https://www.google.com/search?q=Padres&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDc0MTfizM1JUihJTcwtjmJzzEtPzSk-xQiWNcnNyjnFyAliJheWmBhChUGaYMwckyoo0zjXMA_KNCsvSIYrsKiAMk3Tzc1gTMMymDbTirKsX4ycvj5OECcsYmULSEwpSi2-xSbJ0CQgJXF82pbsfTd5WvTDN5zZurR_dcpcvoMA0-78f78AAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQs9oBKAJ6BAgnEAQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Padres&stick=H4sIAAAAAAAAAOOQUeLQz9U3MDc0MTfizM1JUihJTcwtjmJzzEtPzSk-xQiWNcnNyjnFyAliJheWmBhChUGaYMwckyoo0zjXMA_KNCsvSIYrsKiAMk3Tzc1gTMMymDbTirKsX4ycvj5OECcsYmULSEwpSi2-xSbJ0CQgJXF82pbsfTd5WvTDN5zZurR_dcpcvoMA0-78f78AAAA"
+                },
+                {
+                    "name": "Toronto Blue Jays",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2X5RouTBWRXVZu6m4xmnhhaiMnK2wTjAZXg9Y&s=0",
+                    "link": "https://www.google.com/search?q=Toronto+Blue+Jays&stick=H4sIAAAAAAAAAOOQUeLQz9U3MM8xqTLizM1JUihJTcwtjmJzzEtPzSk-xQiWNcnNyjnFyAliJheWmBhChc0NTcxhTKB-KNM41zAPyjQrL0iGK7CogDJN083NYEzDMpg204qyrF-MnL4-ThAnLGIVDMkvys8ryVdwyilNVfBKrCy-xSbJ0CQgJXF82pbsfTd5WvTDN5zZurR_dcpcvoMALv73Z8oAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQs9oBKAN6BAgnEAU",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Toronto+Blue+Jays&stick=H4sIAAAAAAAAAOOQUeLQz9U3MM8xqTLizM1JUihJTcwtjmJzzEtPzSk-xQiWNcnNyjnFyAliJheWmBhChc0NTcxhTKB-KNM41zAPyjQrL0iGK7CogDJN083NYEzDMpg204qyrF-MnL4-ThAnLGIVDMkvys8ryVdwyilNVfBKrCy-xSbJ0CQgJXF82pbsfTd5WvTDN5zZurR_dcpcvoMALv73Z8oAAAA"
+                },
+                {
+                    "name": "Houston Astros",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuliaRsFXVonFP3DRnL3zzTiszQa7RTzoUoNmf&s=0",
+                    "link": "https://www.google.com/search?q=Houston+Astros&stick=H4sIAAAAAAAAAOOQUeLQz9U3MM41zDPizM1JUihJTcwtjmJzzEtPzSk-xQiWNcnNyjnFyAliJheWmBhChc0NTcxhzByTKigTZBSUaVZekAxXYFEBZZqmm5vBmIZlMG2mFWVZvxg5fX2cIE5YxMrnkV9aXJKfp-BYXFKUX3yLTZKhSUBK4vi0Ldn7bvK06IdvOLN1af_qlLl8BwHyI47UxwAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQs9oBKAR6BAgnEAY",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Houston+Astros&stick=H4sIAAAAAAAAAOOQUeLQz9U3MM41zDPizM1JUihJTcwtjmJzzEtPzSk-xQiWNcnNyjnFyAliJheWmBhChc0NTcxhzByTKigTZBSUaVZekAxXYFEBZZqmm5vBmIZlMG2mFWVZvxg5fX2cIE5YxMrnkV9aXJKfp-BYXFKUX3yLTZKhSUBK4vi0Ldn7bvK06IdvOLN1af_qlLl8BwHyI47UxwAAAA"
+                },
+                {
+                    "name": "Seattle Mariners",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWglu_3orH2CmmVATZz-jnaYPZ2juNA2l0pkZd&s=0",
+                    "link": "https://www.google.com/search?q=Seattle+Mariners&stick=H4sIAAAAAAAAAOOQUeLQz9U3MCsvSDbizM1JUihJTcwtjmJzzEtPzSk-xQiWNcnNyjnFyAliJheWmBhChc0NTcxhzByTKijTONcwD8oEmQpXYFEBZZqmm5vBmIZlMG2mFWVZvxg5fX2cIE5YxCoQnJpYUpKTquCbWJSZl1pUfItNkqFJQEri-LQt2ftu8rToh284s3Vp_-qUuXwHAcrrsXDJAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQs9oBKAV6BAgnEAc",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Seattle+Mariners&stick=H4sIAAAAAAAAAOOQUeLQz9U3MCsvSDbizM1JUihJTcwtjmJzzEtPzSk-xQiWNcnNyjnFyAliJheWmBhChc0NTcxhzByTKijTONcwD8oEmQpXYFEBZZqmm5vBmIZlMG2mFWVZvxg5fX2cIE5YxCoQnJpYUpKTquCbWJSZl1pUfItNkqFJQEri-LQt2ftu8rToh284s3Vp_-qUuXwHAcrrsXDJAAAA"
+                }
+            ],
+            "see_more_link": "https://www.google.com/search?q=MLB+teams&stick=H4sIAAAAAAAAAOOQMeLMzUlSKElNzC2OYnPMS0_NKT7FyKGfq29gkpuVc4qRE8RMLiwxMYQKmxuamMOYOSZVUKZxrmEelGlWXpAMV2BRAWWappubwZiGZTBtphVlWb8YOX19nCBOWMSKYN9ik2RoEpCSOD5tS_a-mzwt-uEbzmxd2r86ZS7fQQAjk7dOuAAAAA&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ4qYDegQIJxAI",
+            "see_more_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=MLB+teams&stick=H4sIAAAAAAAAAOOQMeLMzUlSKElNzC2OYnPMS0_NKT7FyKGfq29gkpuVc4qRE8RMLiwxMYQKmxuamMOYOSZVUKZxrmEelGlWXpAMV2BRAWWappubwZiGZTBtphVlWb8YOX19nCBOWMSKYN9ik2RoEpCSOD5tS_a-mzwt-uEbzmxd2r86ZS7fQQAjk7dOuAAAAA"
+        }
+    ],
+    "top_stories_subtitle": "News about Arte Moreno, Angels, and Shohei Ohtani",
+    "top_stories": [
+        {
+            "title": "Angels owner Arte Moreno hopes to keep Shohei Ohtani with 'impossible' task looming",
+            "link": "https://nypost.com/2023/02/08/angels-owner-arte-moreno-hopes-to-keep-shohei-ohtani/",
+            "source": "New York Post",
+            "date": "5 hours ago",
+            "thumbnail": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/5119ba67ca1ec8754a50daf712b5bb2fc26475f40ad29c61.jpeg"
+        },
+        {
+            "title": "MLB rumors: Angels owner wants to keep Shohei Ohtani around; Blue Jays close to locking up Bo Bichette",
+            "link": "https://www.cbssports.com/mlb/news/mlb-rumors-angels-owner-wants-to-keep-shohei-ohtani-around-blue-jays-close-to-locking-up-bo-bichette/",
+            "source": "CBS Sports",
+            "date": "3 hours ago",
+            "thumbnail": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/5119ba67ca1ec87596dbe32007e307c7d8ebb723142e2170.jpeg"
+        },
+        {
+            "title": "Shohei Ohtani Rumors: Rival Thinks New Angels Contract Will Be 'Impossible' Before FA",
+            "link": "https://bleacherreport.com/articles/10064834-shohei-ohtani-rumors-rival-thinks-new-angels-contract-will-be-impossible-before-fa",
+            "source": "Bleacher Report",
+            "date": "3 hours ago",
+            "thumbnail": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/5119ba67ca1ec875d6e69e73209badf273881d2db851fde1.jpeg"
+        },
+        {
+            "title": "Arte Moreno Reiterates Angels' Desire To Keep Shohei Ohtani Past 2023 Season",
+            "link": "https://www.mlbtraderumors.com/2023/02/arte-moreno-reiterates-angels-desire-to-keep-shohei-ohtani-past-2023-season.html",
+            "source": "MLB Trade Rumors",
+            "date": "52 mins ago",
+            "thumbnail": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/5119ba67ca1ec875f07fd06c14aa939d2ebcc4a5ec8b007d.jpeg"
+        },
+        {
+            "title": "Arte Moreno Hopes to Keep Shohei Ohtani in LA: MLB Moves Tracker",
+            "link": "https://www.si.com/mlb/rangers/news/mlb-owners-meetings-los-angeles-angels-shohei-ohtani-arte-moreno",
+            "source": "Sports Illustrated",
+            "date": "3 hours ago",
+            "thumbnail": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/5119ba67ca1ec8755adf2b4788d02ef649e26ce64f638a7b.jpeg"
+        },
+        {
+            "title": "Angels raising their floor to return to October",
+            "link": "https://www.mlb.com/news/how-angels-improved-roster-for-2023",
+            "source": "MLB.com",
+            "date": "1 hour ago",
+            "thumbnail": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/5119ba67ca1ec8754abe49cbe43d1216b66df0e954dc04c4.jpeg"
+        },
+        {
+            "title": "Shohei Ohtani feels Yankees' Aaron Judge robbed him of MVP win",
+            "link": "https://yanksgoyard.com/posts/shohei-ohtani-feels-yankees-aaron-judge-robbed-him-of-mvp-win-01grks33gtsz",
+            "source": "Yanks Go Yard",
+            "date": "4 hours ago",
+            "thumbnail": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/5119ba67ca1ec875ae08c6efa4fbe6b9381550828c23352d.jpeg"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Are the Angels playing today?",
+            "snippet": "There are no games scheduled for this date.",
+            "title": "Schedule - Los Angeles Angels - MLB.com",
+            "link": "https://www.mlb.com/angels/schedule#:~:text=There%20are%20no%20games%20scheduled%20for%20this%20date.",
+            "displayed_link": "https://www.mlb.com \u203a angels \u203a schedule",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wUlNHbFVVblI0ZVU1WE55MXJNVXRJTTBkZlpVVXRiVTVCTUhSWFRWOUplREIyUlRaWE1FcFRkRlpaTldrMldWVXdaRkk0VjFWQ1NYbG5aRmRUWDFOV1RIZDJOMkozRWhjMWJsUnJXVGg1ZEVOUFJGVTFUbTlRTm5abFgzZEJheG9pUVVaZk5rMUJUUzFJY1RGM1pqTm9SVlpvV2xkVFNUWTVTUzFMU21KWFZHeGhVUSIsImZjdiI6IjMiLCJlaSI6IjVuVGtZOHl0Q09EVTVOb1A2dmVfd0FrIiwicWMiOiJDZ1poYm1kbGJITVFBSDNsVVNvXyIsInF1ZXN0aW9uIjoiQXJlIHRoZSBBbmdlbHMgcGxheWluZyB0b2RheT8iLCJsayI6IkdoeGhjbVVnZEdobElHRnVaMlZzY3lCd2JHRjVhVzVuSUhSdlpHRjUiLCJicyI6ImMtTlM0cEoxTEVwVktNbElWWERNUzBfTktWWW95RW1zek14TFZ5akpUMG1zdEplNFo4Mmx4YVVhbnBGWW9wQlpERmFYV0ZLU21wZVNtSmVjcXBDZmhxVFRYcUxSbEV1ZVN3cWtWaDJpMURtenBCS2tDS2FnazVkTGhVcy1QQ00xVHlFbE13WFoxdHo4TXFBcjhoVjhITzBsenFrTE1BSUEiLCJpZCI6ImZjXzMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wUlNHbFVVblI0ZVU1WE55MXJNVXRJTTBkZlpVVXRiVTVCTUhSWFRWOUplREIyUlRaWE1FcFRkRlpaTldrMldWVXdaRkk0VjFWQ1NYbG5aRmRUWDFOV1RIZDJOMkozRWhjMWJsUnJXVGg1ZEVOUFJGVTFUbTlRTm5abFgzZEJheG9pUVVaZk5rMUJUUzFJY1RGM1pqTm9SVlpvV2xkVFNUWTVTUzFMU21KWFZHeGhVUSIsImZjdiI6IjMiLCJlaSI6IjVuVGtZOHl0Q09EVTVOb1A2dmVfd0FrIiwicWMiOiJDZ1poYm1kbGJITVFBSDNsVVNvXyIsInF1ZXN0aW9uIjoiQXJlIHRoZSBBbmdlbHMgcGxheWluZyB0b2RheT8iLCJsayI6IkdoeGhjbVVnZEdobElHRnVaMlZzY3lCd2JHRjVhVzVuSUhSdlpHRjUiLCJicyI6ImMtTlM0cEoxTEVwVktNbElWWERNUzBfTktWWW95RW1zek14TFZ5akpUMG1zdEplNFo4Mmx4YVVhbnBGWW9wQlpERmFYV0ZLU21wZVNtSmVjcXBDZmhxVFRYcUxSbEV1ZVN3cWtWaDJpMURtenBCS2tDS2FnazVkTGhVcy1QQ00xVHlFbE13WFoxdHo4TXFBcjhoVjhITzBsenFrTE1BSUEiLCJpZCI6ImZjXzMifQ%3D%3D"
+        },
+        {
+            "question": "What is the attendance of the Angels?",
+            "snippet": "The average attendance at Los Angeles Angels games in Major League Baseball in 2022 was 30,339.",
+            "title": "Los Angeles Angels average attendance 2022 - Statista",
+            "date": "Jan 6, 2023",
+            "link": "https://www.statista.com/statistics/246788/average-per-game-attendance-of-the-los-angeles-angels/#:~:text=The%20average%20attendance%20at%20Los,Baseball%20in%202022%20was%2030%2C339.",
+            "displayed_link": "https://www.statista.com \u203a statistics \u203a average-per-game-att...",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wUlNHbFVVblI0ZVU1WE55MXJNVXRJTTBkZlpVVXRiVTVCTUhSWFRWOUplREIyUlRaWE1FcFRkRlpaTldrMldWVXdaRkk0VjFWQ1NYbG5aRmRUWDFOV1RIZDJOMkozRWhjMWJsUnJXVGg1ZEVOUFJGVTFUbTlRTm5abFgzZEJheG9pUVVaZk5rMUJUUzFJY1RGM1pqTm9SVlpvV2xkVFNUWTVTUzFMU21KWFZHeGhVUSIsImZjdiI6IjMiLCJlaSI6IjVuVGtZOHl0Q09EVTVOb1A2dmVfd0FrIiwicWMiOiJDZ1poYm1kbGJITVFBSDNsVVNvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYXR0ZW5kYW5jZSBvZiB0aGUgQW5nZWxzPyIsImxrIjoiR2hGaGJtZGxiSE1nWVhSMFpXNWtZVzVqWlEiLCJicyI6ImMtTlM0cEoxTEVwVktNbElWWERNUzBfTktWWW95RW1zek14TFZ5akpUMG1zdEplNFo4Mmx4YVVhbnBGWW9wQlpERmFYV0ZLU21wZVNtSmVjcXBDZmhxVFRYcUxSbEV1ZVN3cWtWaDJpMURtenBCS2tDS2FnazVkTGhVcy1QQ00xVHlFbE13WFoxdHo4TXFBcjhoVjhITzBsenFrTE1BSUEiLCJpZCI6ImZjXzMifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wUlNHbFVVblI0ZVU1WE55MXJNVXRJTTBkZlpVVXRiVTVCTUhSWFRWOUplREIyUlRaWE1FcFRkRlpaTldrMldWVXdaRkk0VjFWQ1NYbG5aRmRUWDFOV1RIZDJOMkozRWhjMWJsUnJXVGg1ZEVOUFJGVTFUbTlRTm5abFgzZEJheG9pUVVaZk5rMUJUUzFJY1RGM1pqTm9SVlpvV2xkVFNUWTVTUzFMU21KWFZHeGhVUSIsImZjdiI6IjMiLCJlaSI6IjVuVGtZOHl0Q09EVTVOb1A2dmVfd0FrIiwicWMiOiJDZ1poYm1kbGJITVFBSDNsVVNvXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgYXR0ZW5kYW5jZSBvZiB0aGUgQW5nZWxzPyIsImxrIjoiR2hGaGJtZGxiSE1nWVhSMFpXNWtZVzVqWlEiLCJicyI6ImMtTlM0cEoxTEVwVktNbElWWERNUzBfTktWWW95RW1zek14TFZ5akpUMG1zdEplNFo4Mmx4YVVhbnBGWW9wQlpERmFYV0ZLU21wZVNtSmVjcXBDZmhxVFRYcUxSbEV1ZVN3cWtWaDJpMURtenBCS2tDS2FnazVkTGhVcy1QQ00xVHlFbE13WFoxdHo4TXFBcjhoVjhITzBsenFrTE1BSUEiLCJpZCI6ImZjXzMifQ%3D%3D"
+        },
+        {
+            "question": "What's the City of Angels?",
+            "snippet": "Los Angeles, California is the second largest city in population, after New York City. Los Angeles has several nicknames. One is simply the city's initials, L.A. It is also called the City of Angels because Los Angeles means \u201cthe angels\u201d in Spanish.",
+            "title": "Words and Their Stories: Nicknames for Los Angeles",
+            "date": "Jan 2, 2010",
+            "link": "https://learningenglish.voanews.com/a/a-23-2009-12-31-voa1-84659112/118642.html#:~:text=Los%20Angeles%2C%20California%20is%20the,%E2%80%9Cthe%20angels%E2%80%9D%20in%20Spanish.",
+            "displayed_link": "https://learningenglish.voanews.com \u203a a-23-2009-12-31-v...",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wUlNHbFVVblI0ZVU1WE55MXJNVXRJTTBkZlpVVXRiVTVCTUhSWFRWOUplREIyUlRaWE1FcFRkRlpaTldrMldWVXdaRkk0VjFWQ1NYbG5aRmRUWDFOV1RIZDJOMkozRWhjMWJsUnJXVGg1ZEVOUFJGVTFUbTlRTm5abFgzZEJheG9pUVVaZk5rMUJUUzFJY1RGM1pqTm9SVlpvV2xkVFNUWTVTUzFMU21KWFZHeGhVUSIsImZjdiI6IjMiLCJlaSI6IjVuVGtZOHl0Q09EVTVOb1A2dmVfd0FrIiwicWMiOiJDZ1poYm1kbGJITVFBSDNsVVNvXyIsInF1ZXN0aW9uIjoiV2hhdCdzIHRoZSBDaXR5IG9mIEFuZ2Vscz8iLCJsayI6IkdobDNhR0YwSjNNZ2RHaGxJR05wZEhrZ2IyWWdZVzVuWld4eiIsImJzIjoiYy1OUzRwSjFMRXBWS01sSVZYRE1TMF9OS1ZZb3lFbXN6TXhMVnlqSlQwbXN0SmU0WjgybHhhVWFucEZZb3BCWkRGYVhXRktTbXBlU21KZWNxcENmaHFUVFhxTFJsRXVlU3dxa1ZoMmkxRG16cEJLa0NLYWdrNWRMaFVzLVBDTTFUeUVsTXdYWjF0ejhNcUFyOGhWOEhPMGx6cWtMTUFJQSIsImlkIjoiZmNfMyJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wUlNHbFVVblI0ZVU1WE55MXJNVXRJTTBkZlpVVXRiVTVCTUhSWFRWOUplREIyUlRaWE1FcFRkRlpaTldrMldWVXdaRkk0VjFWQ1NYbG5aRmRUWDFOV1RIZDJOMkozRWhjMWJsUnJXVGg1ZEVOUFJGVTFUbTlRTm5abFgzZEJheG9pUVVaZk5rMUJUUzFJY1RGM1pqTm9SVlpvV2xkVFNUWTVTUzFMU21KWFZHeGhVUSIsImZjdiI6IjMiLCJlaSI6IjVuVGtZOHl0Q09EVTVOb1A2dmVfd0FrIiwicWMiOiJDZ1poYm1kbGJITVFBSDNsVVNvXyIsInF1ZXN0aW9uIjoiV2hhdCdzIHRoZSBDaXR5IG9mIEFuZ2Vscz8iLCJsayI6IkdobDNhR0YwSjNNZ2RHaGxJR05wZEhrZ2IyWWdZVzVuWld4eiIsImJzIjoiYy1OUzRwSjFMRXBWS01sSVZYRE1TMF9OS1ZZb3lFbXN6TXhMVnlqSlQwbXN0SmU0WjgybHhhVWFucEZZb3BCWkRGYVhXRktTbXBlU21KZWNxcENmaHFUVFhxTFJsRXVlU3dxa1ZoMmkxRG16cEJLa0NLYWdrNWRMaFVzLVBDTTFUeUVsTXdYWjF0ejhNcUFyOGhWOEhPMGx6cWtMTUFJQSIsImlkIjoiZmNfMyJ9"
+        },
+        {
+            "question": "When did the Angels move to LA?",
+            "snippet": "Of course, the Angels were located in Los Angeles at the time and played their debut season at Los Angeles' Wrigley Field in 1961 before playing at Dodger Stadium from 1962-65, calling the ballpark Chavez Ravine for home games.",
+            "title": "Los Angeles Angels team name history - MLB.com",
+            "link": "https://www.mlb.com/news/los-angeles-angels-team-name-history#:~:text=Of%20course%2C%20the%20Angels%20were,Chavez%20Ravine%20for%20home%20games.",
+            "displayed_link": "https://www.mlb.com \u203a news \u203a los-angeles-angels-team-na...",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wUlNHbFVVblI0ZVU1WE55MXJNVXRJTTBkZlpVVXRiVTVCTUhSWFRWOUplREIyUlRaWE1FcFRkRlpaTldrMldWVXdaRkk0VjFWQ1NYbG5aRmRUWDFOV1RIZDJOMkozRWhjMWJsUnJXVGg1ZEVOUFJGVTFUbTlRTm5abFgzZEJheG9pUVVaZk5rMUJUUzFJY1RGM1pqTm9SVlpvV2xkVFNUWTVTUzFMU21KWFZHeGhVUSIsImZjdiI6IjMiLCJlaSI6IjVuVGtZOHl0Q09EVTVOb1A2dmVfd0FrIiwicWMiOiJDZ1poYm1kbGJITVFBSDNsVVNvXyIsInF1ZXN0aW9uIjoiV2hlbiBkaWQgdGhlIEFuZ2VscyBtb3ZlIHRvIExBPyIsImxrIjoiR2g1M2FHVnVJR1JwWkNCMGFHVWdZVzVuWld4eklHMXZkbVVnZEc4Z2JHRSIsImJzIjoiYy1OUzRwSjFMRXBWS01sSVZYRE1TMF9OS1ZZb3lFbXN6TXhMVnlqSlQwbXN0SmU0WjgybHhhVWFucEZZb3BCWkRGYVhXRktTbXBlU21KZWNxcENmaHFUVFhxTFJsRXVlU3dxa1ZoMmkxRG16cEJLa0NLYWdrNWRMaFVzLVBDTTFUeUVsTXdYWjF0ejhNcUFyOGhWOEhPMGx6cWtMTUFJQSIsImlkIjoiZmNfMyJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRW9zQkNreEJRMUIzYW1wUlNHbFVVblI0ZVU1WE55MXJNVXRJTTBkZlpVVXRiVTVCTUhSWFRWOUplREIyUlRaWE1FcFRkRlpaTldrMldWVXdaRkk0VjFWQ1NYbG5aRmRUWDFOV1RIZDJOMkozRWhjMWJsUnJXVGg1ZEVOUFJGVTFUbTlRTm5abFgzZEJheG9pUVVaZk5rMUJUUzFJY1RGM1pqTm9SVlpvV2xkVFNUWTVTUzFMU21KWFZHeGhVUSIsImZjdiI6IjMiLCJlaSI6IjVuVGtZOHl0Q09EVTVOb1A2dmVfd0FrIiwicWMiOiJDZ1poYm1kbGJITVFBSDNsVVNvXyIsInF1ZXN0aW9uIjoiV2hlbiBkaWQgdGhlIEFuZ2VscyBtb3ZlIHRvIExBPyIsImxrIjoiR2g1M2FHVnVJR1JwWkNCMGFHVWdZVzVuWld4eklHMXZkbVVnZEc4Z2JHRSIsImJzIjoiYy1OUzRwSjFMRXBWS01sSVZYRE1TMF9OS1ZZb3lFbXN6TXhMVnlqSlQwbXN0SmU0WjgybHhhVWFucEZZb3BCWkRGYVhXRktTbXBlU21KZWNxcENmaHFUVFhxTFJsRXVlU3dxa1ZoMmkxRG16cEJLa0NLYWdrNWRMaFVzLVBDTTFUeUVsTXdYWjF0ejhNcUFyOGhWOEhPMGx6cWtMTUFJQSIsImlkIjoiZmNfMyJ9"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "Official Los Angeles Angels Website - MLB.com",
+            "link": "https://www.mlb.com/angels",
+            "displayed_link": "https://www.mlb.com \u203a angels",
+            "date": "6 days ago",
+            "snippet": "The official website of the Los Angeles Angels with the most up-to-date information on scores, schedule, stats, tickets, and team news.",
+            "snippet_highlighted_words": [
+                "Angels"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Angels Tickets",
+                        "link": "https://www.mlb.com/angels/tickets"
+                    },
+                    {
+                        "title": "Scores",
+                        "link": "https://www.mlb.com/angels/scores"
+                    },
+                    {
+                        "title": "Angel Stadium",
+                        "link": "https://www.mlb.com/angels/ballpark"
+                    },
+                    {
+                        "title": "Active Roster",
+                        "link": "https://www.mlb.com/angels/roster"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Major League Baseball is a professional baseball organization and the oldest major professional sports league in the world. MLB is composed of 30 total teams, divided equally between the National League and the American League, with 29 in the United States and 1 in Canada.",
+                    "source_info_link": "https://www.mlb.com/angels",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/0974f0f1a2b5551c537cd1068e80ddb70b5544230ae6628b586b1613bbd0e74e1edc9e92928eca31b50bd4cffeccabf2.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.mlb.com/angels&tbm=ilp&ilps=AB_Lh3rZVVejKFgpzrcS8T8gtw5hHIFIhA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3rZVVejKFgpzrcS8T8gtw5hHIFIhA&q=About+https%3A%2F%2Fwww.mlb.com%2Fangels",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:7igcdBKyom0J:https://www.mlb.com/angels&cd=8&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.mlb.com/angels+Angels"
+        },
+        {
+            "position": 2,
+            "title": "Angel - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Angel",
+            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Angel",
+            "date": "20 hours ago",
+            "snippet": "Abrahamic religions often depict angels as benevolent celestial intermediaries between God (or Heaven) and humanity. ... Other roles include protectors and guides ...",
+            "snippet_highlighted_words": [
+                "angels"
+            ],
+            "sitelinks": {
+                "inline": [
+                    {
+                        "title": "Abrahamic religions",
+                        "link": "https://en.wikipedia.org/wiki/Angel#Abrahamic_religions"
+                    },
+                    {
+                        "title": "Neoplatonism",
+                        "link": "https://en.wikipedia.org/wiki/Angel#Neoplatonism"
+                    },
+                    {
+                        "title": "Sikhism",
+                        "link": "https://en.wikipedia.org/wiki/Angel#Sikhism"
+                    },
+                    {
+                        "title": "Esotericism",
+                        "link": "https://en.wikipedia.org/wiki/Angel#Esotericism"
+                    }
+                ]
+            },
+            "about_this_result": {
+                "source": {
+                    "description": "Wikipedia is a multilingual free online encyclopedia written and maintained by a community of volunteers, known as Wikipedians, through open collaboration and using a wiki-based editing system. Wikipedia is the largest and most-read reference work in history.",
+                    "source_info_link": "https://en.wikipedia.org/wiki/Angel",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/0974f0f1a2b5551c537cd1068e80ddb73401d9a010b9c27d7ea47d50a6405e391604fc70cef6a158ac9b100359c9b6a9.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://en.wikipedia.org/wiki/Angel&tbm=ilp&ilps=AB_Lh3oMr5Ys624RDKW_qiUaGaoDc8TgOA",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oMr5Ys624RDKW_qiUaGaoDc8TgOA&q=About+https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FAngel",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:hrm75oRfUBcJ:https://en.wikipedia.org/wiki/Angel&cd=9&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Angel+Angels"
+        },
+        {
+            "position": 3,
+            "title": "Los Angeles Angels - News, Schedule, Scores, Roster, and ...",
+            "link": "https://theathletic.com/mlb/team/angels/",
+            "displayed_link": "https://theathletic.com \u203a mlb \u203a team \u203a angels",
+            "snippet": "Breaking Los Angeles Angels news and in-depth analysis from the best newsroom in sports. Follow your favorite clubs. Get the latest injury updates, ...",
+            "snippet_highlighted_words": [
+                "Angels"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "theathletic.com was first indexed by Google more than 10 years ago",
+                    "source_info_link": "https://theathletic.com/mlb/team/angels/",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/0974f0f1a2b5551c537cd1068e80ddb76aa40074f67f62427e476d78e697b5cdc2fed3f1d65596fc959e0925f79d05d5.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://theathletic.com/mlb/team/angels/&tbm=ilp&ilps=AB_Lh3r_y2g5RFSM5JsZxoNQCTDfpuiF3Q",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3r_y2g5RFSM5JsZxoNQCTDfpuiF3Q&q=About+https%3A%2F%2Ftheathletic.com%2Fmlb%2Fteam%2Fangels%2F"
+        },
+        {
+            "position": 4,
+            "title": "Los Angeles Angels Baseball - ESPN",
+            "link": "https://www.espn.com/mlb/team/_/name/laa/los-angeles-angels",
+            "displayed_link": "https://www.espn.com \u203a mlb \u203a team \u203a name \u203a laa \u203a los-...",
+            "snippet": "Visit ESPN to view the latest Los Angeles Angels news, scores, stats, standings, rumors, and more.",
+            "snippet_highlighted_words": [
+                "Angels"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "ESPN is an American international basic cable sports channel owned by ESPN Inc., owned jointly by The Walt Disney Company and Hearst Communications. The company was founded in 1979 by Bill Rasmussen along with his son Scott Rasmussen and Ed Eagan.",
+                    "source_info_link": "https://www.espn.com/mlb/team/_/name/laa/los-angeles-angels",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/0974f0f1a2b5551c537cd1068e80ddb79b73a64da3461d383544abab174898b19f1378720c665bb06d64a4759e442214.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.espn.com/mlb/team/_/name/laa/los-angeles-angels&tbm=ilp&ilps=AB_Lh3r8Pe7ro5IFUWxYwdMOHHKhzP_4_w",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3r8Pe7ro5IFUWxYwdMOHHKhzP_4_w&q=About+https%3A%2F%2Fwww.espn.com%2Fmlb%2Fteam%2F_%2Fname%2Flaa%2Flos-angeles-angels",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:i5OFTUPTpm4J:https://www.espn.com/mlb/team/_/name/laa/los-angeles-angels&cd=11&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 5,
+            "title": "Los Angeles Angels News, Scores, Status, Schedule - MLB",
+            "link": "https://www.cbssports.com/mlb/teams/LAA/los-angeles-angels/",
+            "displayed_link": "https://www.cbssports.com \u203a mlb \u203a teams \u203a LAA \u203a los-a...",
+            "date": "4 hours ago",
+            "snippet": "Get the latest news and information for the Los Angeles Angels. 2023 season schedule, scores, stats, and highlights. Find out the latest on your favorite ...",
+            "snippet_highlighted_words": [
+                "Angels"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "CBS Sports Network is an American pay television network owned by the CBS Entertainment Group unit of Paramount Global.",
+                    "source_info_link": "https://www.cbssports.com/mlb/teams/LAA/los-angeles-angels/",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/0974f0f1a2b5551c537cd1068e80ddb7b79b4668b99d6c4ea13fdb7c44d99041a122e6505dafeeecaa09c5b6e3764998.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.cbssports.com/mlb/teams/LAA/los-angeles-angels/&tbm=ilp&ilps=AB_Lh3oNt0x1CmAb0Qvvs6xrGxJEIOFQjw",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oNt0x1CmAb0Qvvs6xrGxJEIOFQjw&q=About+https%3A%2F%2Fwww.cbssports.com%2Fmlb%2Fteams%2FLAA%2Flos-angeles-angels%2F",
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:pn6fctSInA0J:https://www.cbssports.com/mlb/teams/LAA/los-angeles-angels/&cd=12&hl=en&ct=clnk&gl=us",
+            "related_results": [
+                {
+                    "position": 1,
+                    "title": "MLB rumors: Angels owner wants to keep Shohei Ohtani around",
+                    "link": "https://www.cbssports.com/mlb/news/mlb-rumors-angels-owner-wants-to-keep-shohei-ohtani-around-blue-jays-close-to-locking-up-bo-bichette/",
+                    "displayed_link": "https://www.cbssports.com \u203a mlb \u203a news \u203a mlb-rumors-...",
+                    "date": "4 hours ago",
+                    "snippet": "MLB rumors: Angels owner wants to keep Shohei Ohtani around; Blue Jays close to locking up Bo Bichette ... The sports world is just a few days ...",
+                    "snippet_highlighted_words": [
+                        "Angels"
+                    ],
+                    "about_this_result": {
+                        "source": {
+                            "description": "CBS Sports Network is an American pay television network owned by the CBS Entertainment Group unit of Paramount Global.",
+                            "source_info_link": "https://www.cbssports.com/mlb/news/mlb-rumors-angels-owner-wants-to-keep-shohei-ohtani-around-blue-jays-close-to-locking-up-bo-bichette/",
+                            "security": "secure",
+                            "icon": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/0974f0f1a2b5551c537cd1068e80ddb760c07442cec6419977ebae37e967d54b9a8a47a489252381635f5c040ed8447db22ce84a8dc915aac03b2493ebe0942b147e73b8c2376996.png"
+                        }
+                    },
+                    "about_page_link": "https://www.google.com/search?q=About+https://www.cbssports.com/mlb/news/mlb-rumors-angels-owner-wants-to-keep-shohei-ohtani-around-blue-jays-close-to-locking-up-bo-bichette/&tbm=ilp&ilps=AB_Lh3oFi-rW5vEzO_CRFXRo_be6bO6JWg",
+                    "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oFi-rW5vEzO_CRFXRo_be6bO6JWg&q=About+https%3A%2F%2Fwww.cbssports.com%2Fmlb%2Fnews%2Fmlb-rumors-angels-owner-wants-to-keep-shohei-ohtani-around-blue-jays-close-to-locking-up-bo-bichette%2F",
+                    "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:FoOH__95C6UJ:https://www.cbssports.com/mlb/news/mlb-rumors-angels-owner-wants-to-keep-shohei-ohtani-around-blue-jays-close-to-locking-up-bo-bichette/&cd=13&hl=en&ct=clnk&gl=us"
+                }
+            ]
+        },
+        {
+            "position": 6,
+            "title": "Los Angeles Angels (@angels) \u2022 Instagram photos and videos",
+            "link": "https://www.instagram.com/angels/?hl=en",
+            "displayed_link": "https://www.instagram.com \u203a angels",
+            "snippet": "1m Followers, 209 Following, 10.3k Posts - See Instagram photos and videos from Los Angeles Angels (@angels)",
+            "snippet_highlighted_words": [
+                "Angels",
+                "angels"
+            ],
+            "about_this_result": {
+                "source": {
+                    "description": "This result comes from www.instagram.com",
+                    "source_info_link": "https://www.instagram.com/angels/?hl=en",
+                    "security": "secure",
+                    "icon": "https://serpapi.com/searches/63e474e066d81f9cfb071c2a/images/0974f0f1a2b5551c537cd1068e80ddb7aaf63e51bd0197c9bf6a61719869c20001adfbcdf33e542867f8b8420e0d75a6.png"
+                }
+            },
+            "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/angels/&tbm=ilp&ilps=AB_Lh3oatR1LvtHh--XH_v9wP0-Z7IgiZQ",
+            "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&ilps=AB_Lh3oatR1LvtHh--XH_v9wP0-Z7IgiZQ&q=About+https%3A%2F%2Fwww.instagram.com%2Fangels%2F",
+            "cached_page_link": "/search?q=related:https://www.instagram.com/angels/%3Fhl%3Den+Angels"
+        }
+    ],
+    "related_searches": [
+        {
+            "query": "angels of god",
+            "link": "https://www.google.com/search?q=Angels+of+God&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ1QJ6BAhHEAE"
+        },
+        {
+            "query": "angels definition",
+            "link": "https://www.google.com/search?q=Angels+definition&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ1QJ6BAhGEAE"
+        },
+        {
+            "query": "angels names",
+            "link": "https://www.google.com/search?q=Angels+names&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ1QJ6BAhFEAE"
+        },
+        {
+            "query": "biblical angels",
+            "link": "https://www.google.com/search?q=Biblical+angels&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ1QJ6BAhDEAE"
+        },
+        {
+            "query": "angels in heaven",
+            "link": "https://www.google.com/search?q=Angels+in+heaven&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ1QJ6BAhBEAE"
+        },
+        {
+            "query": "angels schedule",
+            "link": "https://www.google.com/search?q=Angels+schedule&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ1QJ6BAg_EAE"
+        },
+        {
+            "query": "angels standings",
+            "link": "https://www.google.com/search?q=Angels+standings&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ1QJ6BAg8EAE"
+        },
+        {
+            "query": "angels players",
+            "link": "https://www.google.com/search?q=Angels+players&sa=X&ved=2ahUKEwjMuPLFy4f9AhVgKlkFHer7D5gQ1QJ6BAhIEAE"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Angels&oq=Angels&start=10&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Angels&oq=Angels&start=10&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com/search?q=Angels&oq=Angels&start=20&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com/search?q=Angels&oq=Angels&start=30&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com/search?q=Angels&oq=Angels&start=40&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Angels&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Angels&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Angels&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Angels&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Angels&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&location=Albuquerque%2C+New+Mexico&q=Angels&start=40"
+        }
+    }
+}
